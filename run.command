@@ -2,7 +2,7 @@
 
 echo "START RUN.COMMAND"
 
-BASE_DIR=$PWD
+BASE_DIR=$(dirname "$0")
 CONFIG_DIR="$BASE_DIR/configuration"
 MADPLAN_DIR="$BASE_DIR/madplaner-go"
 LATEX_DIR="$BASE_DIR/output/latexfiles"
