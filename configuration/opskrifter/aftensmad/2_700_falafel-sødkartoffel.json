@@ -1,0 +1,117 @@
+{
+    "name": "Falafel m. bagt sødkartoffel",
+    "calories": 700,
+    "image": "aftensmad/Falafler-med-sød-kartoffel.jpeg",
+    "portions": 2,
+    "ingredients": [
+        {
+            "amount": 2,
+            "unit": "stk.",
+            "name": "søde kartofler",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "tsk.",
+            "name": "tahindressing (se opskrift under tilbehør)",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "dåse",
+            "name": "kikærter, drænet",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "stk.",
+            "name": "æg",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "bundt",
+            "name": "persille",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "stk.",
+            "name": "gulerod",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "fed.",
+            "name": "hvidløg",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "stk.",
+            "name": "citron, saften herfra",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "spsk.",
+            "name": "stødt spidskommen",
+            "shoppingList": true
+        }, 
+        {
+            "amount":1,
+            "unit": "spsk.",
+            "name": "tahin",
+            "shoppingList": true
+        },
+        {
+            "amount":1,
+            "unit": "tsk.",
+            "name": "paperika",
+            "shoppingList": true
+        },
+        {
+            "amount":1,
+            "unit": "tsk.",
+            "name": "stødt chili",
+            "shoppingList": true
+        },
+        {
+            "amount":1,
+            "unit": "tsk.",
+            "name": "bagepulver",
+            "shoppingList": true
+        },
+        {
+            "amount":1,
+            "unit": "spsk.",
+            "name": "fiberHUSK",
+            "shoppingList": true
+        },
+        {
+            "amount":1,
+            "unit": "knivspids",
+            "name": "havsalt",
+            "shoppingList": true
+        },
+        {
+            "amount":1,
+            "unit": "knivspids",
+            "name": "sort peber, friskkværnet",
+            "shoppingList": true
+        }
+    ],
+    "Procedure": [
+        "\\bold{Sød kartoffel}",
+        "2 søde kartoffel rengøres og bages i ovnen ved 200 grader varmluft i ca. 60-90 min. (den skal være helt mør inden i).",
+        "\\bold{Falafler}",
+        "Blend alle ingredienserne godt sammen i en blender.",
+        "Form til små kugler. Fordel dem på en bageplade beklædt med bagepapir.",
+         "Bag i ovnen på 200 C. varmluft i ca. 25 minutter.",
+         "Spis 150-175 falafler per portion. Kartoflerne skæres op og spises med en ske sammen med 2 tsk. tahindressing (se opskrift under tilbehør).",
+         "OBS: Falaflerne kan fryses ned.",
+         "\\bold{350 kcal per portion (40 g. kulhydrat / 11 g. fedt / 15 g. protein)}"
+
+
+    ]
+}

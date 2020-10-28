@@ -1,0 +1,71 @@
+{
+    "name": "Omelet m. spinat og kernebrød",
+    "calories": 1000,
+    "image": "frokost/omelet-spinat.jpeg",
+    "portions": 2,
+    "ingredients": [
+        {
+            "amount": 5,
+            "unit": "stk.",
+            "name": "æg",
+            "shoppingList": true
+        },
+        {
+            "amount": 150,
+            "unit": "g.",
+            "name": "babyspinat",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "løg",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "stk.",
+            "name": "tomater",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "spsk.",
+            "name": "karry",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "tsk.",
+            "name": "paprika",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "spsk.",
+            "name": "kokosolie",
+            "shoppingList": false
+        }, 
+        {
+            "amount":1,
+            "unit": "knivspids",
+            "name": "havsalt",
+            "shoppingList": false
+        },
+        {
+            "amount":1,
+            "unit": "knivspids",
+            "name": "friskkværnet peber",
+            "shoppingList": false
+        }
+    ],
+    "Procedure": [
+        "Skyl spinat og pil og hak løget samt tomater.",
+        "Svits hakket løg i olie samt krydderier. Tilsæt spinat og tomat og lad det simre lidt.",
+        "Pisk æggene godt sammen, kom den på panden og steg æggekagen på en pande ved svag varme, indtil den har sat sig og er fast.",
+        "Serveres med 2 stk. kernebrød pr. portion",
+        "\\bold{500 kcal per portion (10 g. kulhydrat / 30 g. fedt / 32 g. protein)}"
+
+
+    ]
+}

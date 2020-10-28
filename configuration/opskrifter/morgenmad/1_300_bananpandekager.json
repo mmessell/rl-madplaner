@@ -1,0 +1,54 @@
+{
+    "name": "Bananpandekager",
+    "calories": 300,
+    "image": "morgenmad/bananpandekager.jpeg",
+    "portions": 1,
+    "ingredients": [
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "banan",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "stk.",
+            "name": "æg",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "spsk.",
+            "name": "FiberHUSK",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "spsk.",
+            "name": "chiafrø",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "tsk.",
+            "name": "vaniljepulver",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "frugt eller bær",
+            "shoppingList": false
+        }, 
+        {
+            "amount": 1,
+            "unit": "tsk.",
+            "name": "peanutbutter(valgfrit)",
+            "shoppingList": false
+        }
+    ],
+    "procedure": [
+        "Blend det hele sammen (evt. i en foodprocessor).",
+        "Steg små klatter på panden i kokosolie, 2 minutter på hver side."
+    ]
+}

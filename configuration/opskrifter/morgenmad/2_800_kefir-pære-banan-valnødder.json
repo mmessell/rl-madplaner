@@ -1,0 +1,42 @@
+{
+    "name": "Kefir m. pære, banan og valnødder",
+    "calories": 800,
+    "image": "morgenmad/kefir-pære-banan.jpg",
+    "portions": 2,
+    "ingredients": [
+        {
+            "amount": 400,
+            "unit": "g.",
+            "name": "kefir",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "spsk.",
+            "name": "chiafrø",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "stk.",
+            "name": "pærer",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "stk.",
+            "name": "bananer",
+            "shoppingList": true
+        },
+        {
+            "amount": 10,
+            "unit": "stk.",
+            "name": "valnødder",
+            "shoppingList": true
+        }
+    ],
+    "procedure": [
+        "Hæld 200 g. kefir/cultura op i hver skål. Bland 1 spsk. chiafrø i hver og lad det trække 5-10 min.",
+        "Skær pære, banan og valnødder ud i små mundrette stykker og drys det over din kefir."
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "name": "Rawgrød",
+    "calories": 400,
+    "image": "morgenmad/rawgrød.jpeg",
+    "portions": 1,
+    "ingredients": [
+        {
+            "amount": 20,
+            "unit": "g.",
+            "name": "hørfrø",
+            "shoppingList": true
+        },
+        {
+            "amount": 20,
+            "unit": "g.",
+            "name": "chiafrø",
+            "shoppingList": true
+        },
+        {
+            "amount": 25,
+            "unit": "g.",
+            "name": "granatæble",
+            "shoppingList": true
+        },
+        {
+            "amount": 10,
+            "unit": "g.",
+            "name": "rosiner",
+            "shoppingList": true
+        },
+        {
+            "amount": 20,
+            "unit": "g.",
+            "name": "mandler",
+            "shoppingList": true
+        }
+    ],
+    "procedure": [
+        "Sæt hørfrø og chiafrø (20 spsk = 20 g.) i blød i vand om aftenen, så frøene er dækket, da de suger meget væske til sig.", 
+       "Rør godt rundt. Lad rawgrøden trække natten over. Stil dem enten i køleskab eller på køkkenbordet.",
+        "Ordn granatæblet i en skål (evt. med vand) og gem til resten i køleskabet.",
+        "Drys granatæble, rosiner og hakkede mandler over grøden.",
+        "\\bold{400 kcal per portion (20 g. kulhydrat / 27 g. fedt / 16 g. protein)}"
+ 
+        
+    ]
+}

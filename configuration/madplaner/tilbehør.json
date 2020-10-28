@@ -1,0 +1,27 @@
+{
+    "name": "Antiinflammatorisk madplan @renlykke",
+    "persons": 1,
+    "weeks": [
+        2
+    ],
+    "dagsplaner": [
+        {
+            "day": "Mandag",
+            "breakfast": "tilbehør/1_900_rødbedehummus.json",
+            "lunch": "tilbehør/12_720_bønnedeller.json",
+            "dinner": "tilbehør/1_broccoliboller.json"
+        },
+        {
+            "day": "Tirsdag",
+            "breakfast": "tilbehør/1_1200_krydret-nøddemix.json",
+            "lunch": "tilbehør/1_1200_krydret-nøddemix.json",
+            "dinner": "tilbehør/1_1200_krydret-nøddemix.json"
+        },
+        {
+            "day": "Onsdag",
+            "breakfast": "tilbehør/1_2500_kernebrød.json",
+            "lunch": "tilbehør/1_2500_kernebrød.json",
+            "dinner": "tilbehør/1_2500_kernebrød.json"
+        }
+    ]
+}

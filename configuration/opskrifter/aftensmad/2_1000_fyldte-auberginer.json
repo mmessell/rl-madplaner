@@ -1,0 +1,115 @@
+{
+    "name": "Fyldte auberginer",
+    "calories": 1000,
+    "image": "aftensmad/fyldte-auberginer.jpeg",
+    "portions": 2,
+    "ingredients": [
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "aubergine",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "dåse",
+            "name": "sorte bønner",
+            "shoppingList": true
+        },
+        {
+            "amount": 150,
+            "unit": "g.",
+            "name": "tomater",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "fed",
+            "name": "hvidløg",
+            "shoppingList": true
+        },
+        {
+            "amount": 15,
+            "unit": "stk.",
+            "name": "friske mynteblade",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "spsk.",
+            "name": "spidskommen",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "spsk.",
+            "name": "olivenolie",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "knivspids",
+            "name": "havsalt",
+            "shoppingList": false
+        },
+        {
+            "amount": 500,
+            "unit": "g.",
+            "name": "kartofler",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "bundt",
+            "name": "persille",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "bundt",
+            "name": "dild",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "fed",
+            "name": "hvidløg",
+            "shoppingList": true
+        },
+        {
+            "amount": 5,
+            "unit": "spsk.",
+            "name": "olivenolie",
+            "shoppingList": true
+        },
+        {
+            "amount": 3,
+            "unit": "spsk.",
+            "name": "æblecidereddike",
+            "shoppingList": false
+        },
+        {
+            "amount": 1,
+            "unit": "knivspids",
+            "name": "havsalt",
+            "shoppingList": false
+        }
+    ],
+    "procedure": [
+        "\\bold{Sicilianske auberginer}", 
+        "Skyl og dræn de sorte bønner",
+        "Skyl og skær auberginerne i halve og læg dem med den runde side nedad på en beklædt bageplade.",
+        "Fjern kødet med en ske og kom det i en skål.",
+         "Varm ovnen på 200 grader. Skyl tomater og mynte og hak det i små stykker.",
+         "Pil et hvidløg og hak det fint. Hak kødet fra auberginerne og bland det sammen med tomater, mynte, sorte bønner og hvidløg i en skål.",
+         "Krydr blandingen med 1 spsk spidskommen og havsalt.", 
+         "Tilsæt 1 spsk. olivenolie og kom fyldet i de halverede auberginer.",
+          "Bag auberginerne i ovnen ved 200 gr. i ca. 30 min.",
+          "\\bold{Kartofler m. krydderurter}",
+          "Bring kartoflerne i kog over middel varme. Lad dem simre, til de er møre, 15 minutter alt efter størrelse.", 
+          "Skær dem i mindre stykker og kom i en skål.",
+          " Skyl persille og dild og hak det fint. Pil og hak hvidløg fint.",
+          "Vend det hele i skålen med kartofler. Rør olie, æbleeddike og havsalt sammen i en lille kop.",
+          "Hæld dressingen over salaten og vend det forsigtigt. Anret kartoffelsalaten sammen med de bagte auberginer."
+    ]
+}

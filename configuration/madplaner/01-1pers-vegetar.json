@@ -1,0 +1,51 @@
+{
+    "name": "Antiinflammatorisk madplan @renlykke",
+    "persons": 1,
+    "weeks": [
+        1
+    ],
+    "dagsplaner": [
+        {
+            "day": "Mandag",
+            "breakfast": "morgenmad/1_400_græsk-pære-banan-valnødder.json",
+            "lunch": "frokost/1_600_spidskålssalat.json",
+            "dinner": "aftensmad/4_1600_indisk-dahl.json"
+        },
+        {
+            "day": "Tirsdag",
+            "breakfast": "morgenmad/1_400_græsk-pære-banan-valnødder.json",
+            "lunch": "frokost/1_600_spidskålssalat.json",
+            "dinner": "aftensmad/4_1600_indisk-dahl.json"
+        },
+        {
+            "day": "Onsdag",
+            "breakfast": "morgenmad/1_400_græsk-pære-banan-valnødder.json",
+            "lunch": "frokost/1_600_spidskålssalat.json",
+            "dinner": "aftensmad/4_1600_indisk-dahl.json"
+        },
+        {
+            "day": "Torsdag",
+            "breakfast": "morgenmad/1_400_græsk-pære-banan-valnødder.json",
+            "lunch": "frokost/1_600_spidskålssalat.json",
+            "dinner": "aftensmad/4_1600_indisk-dahl.json"
+        },
+        {
+            "day": "Fredag",
+            "breakfast": "morgenmad/1_400_græsk-pære-banan-valnødder.json",
+            "lunch": "frokost/1_600_spidskålssalat.json",
+            "dinner": "aftensmad/2_900_græsk quinoasalat m. sød kartoffel.json"
+        },
+        {
+            "day": "Lørdag",
+            "breakfast": "morgenmad/1_400_cant-beet-me-smoothie.json",
+            "lunch": "frokost/2_900_æggekage(m.data).json",
+            "dinner": "aftensmad/2_900_græsk quinoasalat m. sød kartoffel.json"
+        },
+        {
+            "day": "Søndag",
+            "breakfast": "morgenmad/1_400_cant-beet-me-smoothie.json",
+            "lunch": "frokost/2_900_æggekage(m.data).json",
+            "dinner": "aftensmad/rester-02.json"
+        }
+    ]
+}

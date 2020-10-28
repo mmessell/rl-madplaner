@@ -1,0 +1,87 @@
+{
+    "name": "Broccolisalat og kyllingelår",
+    "calories": 1000,
+    "image": "aftensmad/kyllingelår-broccolisalat.jpeg",
+    "portions": 2,
+    "ingredients": [
+        {
+            "amount": 0.5,
+            "unit": "spsk",
+            "name": "rosmarin",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "spsk.",
+            "name": "olivenolie",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "knivspids",
+            "name": "havsalt",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "knivspids",
+            "name": "friskkværnet peber",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "stk.",
+            "name": "kyllingeoverlår",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "broccoli",
+            "shoppingList": true
+        },
+        {
+            "amount": 3,
+            "unit": "stilke",
+            "name": "bladselleri",
+            "shoppingList": true
+        },
+        {
+            "amount": 30,
+            "unit": "g.",
+            "name": "solsikkekerner",
+            "shoppingList": true
+        },
+        {
+            "amount": 40,
+            "unit": "g.",
+            "name": "rosiner",
+            "shoppingList": true
+        },
+        {
+            "amount": 5,
+            "unit": "spsk.",
+            "name": "olivenolie",
+            "shoppingList": true
+        },
+        {
+            "amount": 3,
+            "unit": "spsk.",
+            "name": "æblecidereddike",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "knivspids",
+            "name": "havsalt",
+            "shoppingList": true
+        }
+    ],
+    "procedure": [
+       "Gnid kyllingelårene ind i havsalt, rosmarin peber, gerne både under og over skindet.",
+        "Varmes i ovnen på 180 grader varmluft i ca. 35 minutter).",
+        "Rengør og ordn broccoli ved at snitte den fint, bladselleri også relativt fint",
+        "Bland alle ingredienser i en stor skål og vend dressingen over. Gem en portion til aftensmad i morgen."
+        
+    ]
+}

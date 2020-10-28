@@ -1,0 +1,82 @@
+{
+    "name": "Græsk quinoasalat m. sød kartoffel",
+    "calories": 1100,
+    "image": "aftensmad/græsk-quinoasalat-sødkartoffel.jpeg",
+    "portions": 2,
+    "ingredients": [
+        {
+            "amount": 2,
+            "unit": "stk.",
+            "name": "mellemstore søde kartofler",
+            "shoppingList": true
+        },
+        {
+            "amount": 105,
+            "unit": "g.",
+            "name": "hvid quinoa",
+            "shoppingList": true
+        },
+        {
+            "amount": 125,
+            "unit": "g.",
+            "name": "cherrytomater",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "stk.",
+            "name": "agurk",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "stk.",
+            "name": "rødløg",
+            "shoppingList": true
+        },
+        {
+            "amount": 100,
+            "unit": "g.",
+            "name": "spinat",
+            "shoppingList": true
+        },
+        {
+            "amount": 30,
+            "unit": "g.",
+            "name": "mandler",
+            "shoppingList": true
+        },
+        {
+            "amount": 3,
+            "unit": "spsk.",
+            "name": "olivenolie",
+            "shoppingList": false
+        },
+        {
+            "amount": 0.5,
+            "unit": "saft",
+            "name": "citron",
+            "shoppingList": false
+        },
+        {
+            "amount": 1,
+            "unit": "knivspids",
+            "name": "havsalt",
+            "shoppingList": true
+        }
+    ],
+    "procedure": [
+        "Tænd ovnen på 220 gr. Skrub de søde kartofler rene og læg dem på en bageplade med bagepapir.",
+        "Lav huller flere steder med en gaffel eller kniv. Bag kartoflerne i 55-65 min.",
+        "Kog quinoa (1,5 dl) efter anvisning på pakken og lad dem køle af.",
+        "Lav den græske salat i en stor skål. Skær 1/2 agurk i tern og gerne den våde midterdel fra.",
+        "Halver tomaterne, hak rødløg og snit spinat groft. Bland det hele sammen i skålen.",
+        "Bland olivenolie, citron og salt sammen og hæld den over salaten sammen med det afkølede quinoa.",
+        "Tag kartoflerne ud af ovnen, skær en sprække i midten og lad dem nedkøle.",
+        "Rist en håndfuld mandler (30 g.) let på panden og hak dem i mindre stykker",
+        "Når de er kolde hældes qunioa salaten i sprækken. Gem to kartofler og en omgang græsk salat til i morgen aften.",
+        "",
+        "",
+        "\\bold{Indeholder: 550 kcal per portion (55 g. kulhydrat / 24 g. fedt / 15 g. protein)}" 
+    ]
+}

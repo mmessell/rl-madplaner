@@ -1,0 +1,78 @@
+{
+    "name": "Hjemmelavet kernebrød",
+    "calories": 2500,
+    "image": "morgenmad/kernebrød.jpeg",
+    "portions": 1,
+    "ingredients": [
+        {
+            "amount": 4,
+            "unit": "stk.",
+            "name": "æg",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "gulerod",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "squash",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "spsk.",
+            "name": "kokosolie",
+            "shoppingList": true
+        },
+        {
+            "amount": 100,
+            "unit": "g.",
+            "name": "hørfrø",
+            "shoppingList": true
+        },
+        {
+            "amount": 100,
+            "unit": "g.",
+            "name": "græskarkerner",
+            "shoppingList": true
+        },
+        {
+            "amount": 100,
+            "unit": "g.",
+            "name": "solsikkekerner",
+            "shoppingList": false
+        },
+        {
+            "amount": 100,
+            "unit": "g.",
+            "name": "mandler",
+            "shoppingList": false
+        },
+        {
+            "amount": 1,
+            "unit": "spsk.",
+            "name": "stødt gurkemeje",
+            "shoppingList": false
+        },
+        {
+            "amount": 0.5,
+            "unit": "spsk.",
+            "name": "salt (havsalt)",
+            "shoppingList": false
+        } 
+    ],
+    "Procedure": [
+        "Tænd ovnen på 150-160 grader (varmluft).",
+        "Pisk æg og olie til massen er jævn (evt. i en foodprocessor).",
+       "Kom alle frø og kerner og havsalt i og kør til alt er groft hakket.",
+       "Bland revet gulerod, squash og de groft hakkede mandler i.",
+        "Kommes i en smurt brødform og bages i ca. 1 time.",
+        "Afkøles. Tag den mængde brød fra, som svarer til din frokost de næste 5 dage og opbevar det i køleskabet.",
+        "Skær resten af brødet i skriver og frys det ned (ta' et par skiver op igen fredag, så du har til frokosten lørdag og søndag)",
+        "OBS: Det er ikke afgørende, hvilke nødder, frø, kerner du anvender, blot mængden passer."
+        ]
+}

@@ -1,0 +1,51 @@
+{
+    "name": "Antiinflammatorisk madplan @renlykke",
+    "persons": 2,
+    "weeks": [
+        2
+    ],
+    "dagsplaner": [
+        {
+            "day": "Mandag",
+            "breakfast": "morgenmad/1_400_hindbærsmoothie.json",
+            "lunch": "frokost/1_500_kernebrød-gulerodshummus.json",
+            "dinner": "aftensmad/4_2400_poke-bowl.json"
+        },
+        {
+            "day": "Tirsdag",
+            "breakfast": "morgenmad/1_400_hindbærsmoothie.json",
+            "lunch": "frokost/1_500_kernebrød-gulerodshummus.json",
+            "dinner": "aftensmad/4_2400_poke-bowl.json"
+        },
+        {
+            "day": "Onsdag",
+            "breakfast": "morgenmad/1_400_hindbærsmoothie.json",
+            "lunch": "frokost/1_500_kernebrød-gulerodshummus.json",
+            "dinner": "aftensmad/4_1800_indisk-dahl.json"
+        },
+        {
+            "day": "Torsdag",
+            "breakfast": "morgenmad/1_400_hindbærsmoothie.json",
+            "lunch": "frokost/1_500_kernebrød-gulerodshummus.json",
+            "dinner": "aftensmad/4_1800_indisk-dahl.json"
+        },
+        {
+            "day": "Fredag",
+            "breakfast": "morgenmad/1_400_hindbærsmoothie.json",
+            "lunch": "frokost/1_500_kernebrød-gulerodshummus.json",
+            "dinner": "aftensmad/4_1800_mexisalat.json"
+        },
+        {
+            "day": "Lørdag",
+            "breakfast": "morgenmad/1_400_rawgrød.json",
+            "lunch": "frokost/1_500_røgetlaks-kernebrød.json",
+            "dinner": "aftensmad/4_1800_mexisalat.json"
+        },
+        {
+            "day": "Søndag",
+            "breakfast": "morgenmad/1_400_rawgrød.json",
+            "lunch": "frokost/1_500_røgetlaks-kernebrød.json",
+            "dinner": "aftensmad/rester-02.json"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "name": "Broccolibrød",
+    "calories": 800,
+    "image": "frokost/broccoliboller.jpeg",
+    "portions": 1,
+    "ingredients": [
+        {
+            "amount": 4,
+            "unit": "stk.",
+            "name": "store æg",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "broccolihoved - uden stilk",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "tsk.",
+            "name": "salt",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "spsk.",
+            "name": "FiberHusk",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "tsk.",
+            "name": "bagepulver",
+            "shoppingList": false
+        },
+        {
+            "amount": 5,
+            "unit": "spsk.",
+            "name": "mandelmel",
+            "shoppingList": false
+        }  
+    ],
+    "Procedure": [
+        "Kør broccolihovedet helt fint i foodprocessoren.",
+         "Hæld herefter massen over i en skål og rør de resterende ingredienser i, indtil det hele er rørt sammen til en ensartet masse.",
+        "Fordel 10 klatter (smid en skefuld på bagepladen og glat den lidt ud, så den er 1⁄2 cm tyk) på bagepapir på 2 bageplader og bag dem i ca. 15 min. ved 175 grader varmluft.",
+        "Kan nedfryses.",
+        "\\bold{80 kcal per stk (2 g. kulhydrat / 5 g. fedt / 6 g. protein)}"
+
+        ]
+}

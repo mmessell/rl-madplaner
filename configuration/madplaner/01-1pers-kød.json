@@ -1,0 +1,51 @@
+{
+    "name": "Antiinflammatorisk madplan @renlykke",
+    "persons": 1,
+    "weeks": [
+        1
+    ],
+    "dagsplaner": [
+        {
+            "day": "Mandag",
+            "breakfast": "morgenmad/1_400_kefir-pære-banan-valnødder.json",
+            "lunch": "frokost/1_400_spidskålssalat-laks.json",
+            "dinner": "aftensmad/2_900_græsk quinoasalat m. sød kartoffel.json"
+        },
+        {
+            "day": "Tirsdag",
+            "breakfast": "morgenmad/1_400_kefir-pære-banan-valnødder.json",
+            "lunch": "frokost/1_400_spidskålssalat-laks.json",
+            "dinner": "aftensmad/2_900_græsk quinoasalat m. sød kartoffel.json"
+        },
+        {
+            "day": "Onsdag",
+            "breakfast": "morgenmad/1_400_kefir-pære-banan-valnødder.json",
+            "lunch": "frokost/1_500_spidskålssalat-kikærter.json",
+            "dinner": "aftensmad/2_900_æggekage(m.data).json"
+        },
+        {
+            "day": "Torsdag",
+            "breakfast": "morgenmad/1_400_kefir-pære-banan-valnødder.json",
+            "lunch": "frokost/1_500_spidskålssalat-kikærter.json",
+            "dinner": "aftensmad/2_900_æggekage(m.data).json"
+        },
+        {
+            "day": "Fredag",
+            "breakfast": "morgenmad/1_400_kefir-pære-banan-valnødder.json",
+            "lunch": "frokost/1_500_spidskålssalat-kikærter.json",
+            "dinner": "aftensmad/2_1000_bagte-rødder-kylling-avocadocreme.json"
+        },
+        {
+            "day": "Lørdag",
+            "breakfast": "morgenmad/1_400_cant-beet-me-smoothie.json",
+            "lunch": "frokost/1_450_makrel-tomat-purløg.json",
+            "dinner": "aftensmad/2_1000_bagte-rødder-kylling-avocadocreme.json"
+        },
+        {
+            "day": "Søndag",
+            "breakfast": "morgenmad/1_400_cant-beet-me-smoothie.json",
+            "lunch": "frokost/1_450_makrel-tomat-purløg.json",
+            "dinner": "aftensmad/rester-02.json"
+        }
+    ]
+}

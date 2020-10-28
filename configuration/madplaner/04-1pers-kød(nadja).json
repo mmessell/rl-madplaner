@@ -1,0 +1,51 @@
+{
+    "name": "Antiinflammatorisk Madplan @renlykke",
+    "persons": 1,
+    "weeks": [
+        4
+    ],
+    "dagsplaner": [
+        {
+            "day": "Mandag",
+            "breakfast": "morgenmad/1_350_overnightoat.json",
+            "lunch": "frokost/1_450_spinatpandekager-bønnedeller.json",
+            "dinner": "aftensmad/2_1000_kyllingelår-broccolisalat.json"
+        },
+        {
+            "day": "Tirsdag",
+            "breakfast": "morgenmad/1_350_overnightoat.json",
+            "lunch": "frokost/1_450_spinatpandekager-bønnedeller.json",
+            "dinner": "aftensmad/2_1000_kyllingelår-broccolisalat.json"
+        },
+        {
+            "day": "Onsdag",
+            "breakfast": "morgenmad/1_350_overnightoat.json",
+            "lunch": "frokost/1_450_spinatpandekager-bønnedeller.json",
+            "dinner": "aftensmad/2_1000_rødbedebøffer.json"
+        },
+        {
+            "day": "Torsdag",
+            "breakfast": "morgenmad/1_350_overnightoat.json",
+            "lunch": "frokost/1_400_broccolibrød-laks.json",
+            "dinner": "aftensmad/2_1000_rødbedebøffer.json"
+        },
+        {
+            "day": "Fredag",
+            "breakfast": "morgenmad/1_350_overnightoat.json",
+            "lunch": "frokost/1_400_broccolibrød-laks.json",
+            "dinner": "aftensmad/2_1200_hvidfisk-tomatsalat.json"
+        },
+        {
+            "day": "Lørdag",
+            "breakfast": "morgenmad/2_400_grønlykke.json",
+            "lunch": "frokost/1_400_broccolibrød-laks.json",
+            "dinner": "aftensmad/2_1200_hvidfisk-tomatsalat.json"
+        },
+        {
+            "day": "Søndag",
+            "breakfast": "morgenmad/2_400_grønlykke.json",
+            "lunch": "frokost/rester-frokost.json",
+            "dinner": "aftensmad/rester-02.json"
+        }
+    ]
+}

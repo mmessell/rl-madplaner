@@ -1,0 +1,31 @@
+{
+    "name": "Rester",
+    "calories": 500,
+    "image": "aftensmad/rester.jpeg",
+    "portions": 1,
+    "ingredients": [
+        {
+            "amount": 50,
+            "unit": "pct.",
+            "name": "grøntsager",
+            "shoppingList": false
+        },
+        {
+            "amount": 25,
+            "unit": "pct.",
+            "name": "lette proteiner",
+            "shoppingList": false
+        },
+        {
+            "amount": 25,
+            "unit": "pct.",
+            "name": "sunde fedtstoffer",
+            "shoppingList": false
+        }
+    ],
+    "procedure": [
+        "Søndag er tiltænkt som ‘restedag’, hvor du tømmer køleskabet for rester.",
+        "Lav evt. en salat eller wok af overskydende grøntsager.",
+        "Tænk på tallerkenmodellen og sørg for, at du får en masse grøntsager, lette proteiner og sunde fedtstoffer"
+    ]
+}

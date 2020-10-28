@@ -1,0 +1,63 @@
+{
+    "name": "Rødbedehummus",
+    "calories": 900,
+    "image": "frokost/roedbedehummus.jpeg",
+    "portions": 1,
+    "ingredients": [
+        {
+            "amount": 200,
+            "unit": "g.",
+            "name": "rødbede",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "fed",
+            "name": "hvidløg",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "dåse",
+            "name": "kikærter (drænet)",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "spsk.",
+            "name": "olivenolie",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "spsk.",
+            "name": "tahin",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "tsk.",
+            "name": "stødt spidskommen",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "spsk.",
+            "name": "æblecidereddike",
+            "shoppingList": true
+        }
+        
+        
+        
+        
+        
+    ],
+    "procedure": [
+        "Skrub rødbederne, og kog dem i 30 minutter, til de er helt møre. Hæld koldt vand over dem, så de køler af.",
+        "Pil skrællen af rødbederne, og blend dem i en foodprocessor eller blender sammen med pillet hvidløg, afdryppede kikærter, olie, tahin og spidskommen.",
+        "Tilsæt evt. lidt vand undervejs, så hummussen bliver cremet. Smag til med æblecidereddike, salt og peber.",
+       "\\bold{165 kcal. per 100 g. (12 g. kulhydrat / 9 g. fedt / 5 g. protein)}"
+
+        
+    ]
+}

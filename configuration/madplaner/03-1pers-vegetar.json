@@ -1,0 +1,51 @@
+{
+    "name": "Antiinflammatorisk Madplan @renlykke",
+    "persons": 1,
+    "weeks": [
+        3
+    ],
+    "dagsplaner": [
+        {
+            "day": "Mandag",
+            "breakfast": "morgenmad/1_500_hirsegrød.json",
+            "lunch": "frokost/1_400_kikærter-broccoli.json",
+            "dinner": "aftensmad/2_1000_fyldte-auberginer.json"
+        },
+        {
+            "day": "Tirsdag",
+            "breakfast": "morgenmad/1_500_hirsegrød.json",
+            "lunch": "frokost/1_400_kikærter-broccoli.json",
+            "dinner": "aftensmad/2_1000_fyldte-auberginer.json"
+        },
+        {
+            "day": "Onsdag",
+            "breakfast": "morgenmad/1_500_hirsegrød.json",
+            "lunch": "frokost/2_1200_gulerod-quinoa.json",
+            "dinner": "aftensmad/4_1400_chili-con-vegan.json"
+        },
+        {
+            "day": "Torsdag",
+            "breakfast": "morgenmad/1_500_hirsegrød.json",
+            "lunch": "frokost/2_1200_gulerod-quinoa.json",
+            "dinner": "aftensmad/4_1400_chili-con-vegan.json"
+        },
+        {
+            "day": "Fredag",
+            "breakfast": "morgenmad/1_500_hirsegrød.json",
+            "lunch": "frokost/1_500_rødbedesalat.json",
+            "dinner": "aftensmad/2_1000_sødkartoffel-burger.json"
+        },
+        {
+            "day": "Lørdag",
+            "breakfast": "morgenmad/1_300_bananpandekager.json",
+            "lunch": "frokost/1_500_rødbedesalat.json",
+            "dinner": "aftensmad/2_1000_sødkartoffel-burger.json"
+        },
+        {
+            "day": "Søndag",
+            "breakfast": "morgenmad/1_300_bananpandekager.json",
+            "lunch": "frokost/rester-frokost.json",
+            "dinner": "aftensmad/rester-02.json"
+        }
+    ]
+}

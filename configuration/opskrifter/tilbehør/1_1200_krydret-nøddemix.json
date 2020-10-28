@@ -1,0 +1,67 @@
+{
+    "name": "Krydret nøddemix",
+    "calories": 1200,
+    "image": "morgenmad/nøddemix.jpeg",
+    "portions": 1,
+    "ingredients": [
+        {
+            "amount": 50,
+            "unit": "g.",
+            "name": "mandler",
+            "shoppingList": true
+        },
+        {
+            "amount": 50,
+            "unit": "g.",
+            "name": "hasselnødder",
+            "shoppingList": true
+        },
+        {
+            "amount": 50,
+            "unit": "g.",
+            "name": "græskarkerner",
+            "shoppingList": true
+        },
+        {
+            "amount": 50,
+            "unit": "g.",
+            "name": "cashewnødder",
+            "shoppingList": true
+        },
+        {
+            "amount": 3.5,
+            "unit": "spsk.",
+            "name": "salt (havsalt)",
+            "shoppingList": false
+        },
+        {
+            "amount": 2,
+            "unit": "dl.",
+            "name": "vand",
+            "shoppingList": false
+        },
+        {
+            "amount": 1.5,
+            "unit": "spsk.",
+            "name": "kanel",
+            "shoppingList": false
+        },
+        {
+            "amount": 1.5,
+            "unit": "spsk.",
+            "name": "kardemomme",
+            "shoppingList": false
+        }
+    ],
+    "Procedure": [
+        "Kom havsalt og vand i en gryde og bring det i kog.",
+        "Tilsæt kanel, kardemomme og nøddeblandingen og giv det et opkog.",
+        "Tag nu gryden af varmen og lad stå med låg på i 15 minutter.",
+        "Tænd ovnen på 150 grader varmluft. Si vandet fra og hæld nøddeblandingen ud på en bageplade med bagepapir.",
+        "Bag dem i ovnen i 20 minutter – tjek undervejs.",
+        "Køles af inden de hældes på en lufttæt beholder/glas.",
+        "OBS: Du kan også udelade krydderier med smag og lave blandingen med havsalt.",
+        "\\bold{600 kcal per 100 g.}" 
+
+        ]
+}

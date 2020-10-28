@@ -1,0 +1,63 @@
+{
+    "name": "Spidskålssalat m. laks og basilikum",
+    "calories": 1000,
+    "image": "spidskålssalat m. laks.jpg",
+    "portions": 2,
+    "ingredients": [
+        {
+            "amount": 0.5,
+            "unit": "stk.",
+            "name": "spidskål",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "stilke",
+            "name": "bladselleri",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "bundt",
+            "name": "basilikum",
+            "shoppingList": true
+        },
+        {
+            "amount": 20,
+            "unit": "g.",
+            "name": "solsikkekerner",
+            "shoppingList": true
+        },
+        {
+            "amount": 5,
+            "unit": "spsk.",
+            "name": "olivenolie",
+            "shoppingList": false
+        },
+        {
+            "amount": 3,
+            "unit": "spsk.",
+            "name": "æblecidereddike",
+            "shoppingList": false
+        },
+        {
+            "amount": 1,
+            "unit": "knivspids",
+            "name": "havsalt",
+            "shoppingList": false
+        }, 
+        {
+            "amount": 4,
+            "unit": "skiver",
+            "name": "røget laks",
+            "shoppingList": true
+        }
+    ],
+    "Procedure": [
+        "Forbered en basissalat af spidskål og bladselleri.",
+        "Kål snittes fint, bladselleri også relativt fint",
+        "Rengør og snit basilikum inklusive stilke.",
+        "Kom basissalat, solsikkekerner og basilikum i en stor skål, som vendes med en dressing af olivenolie, æblecidereddike og havsalt.",
+        "Salaten anrettes med 2 skiver laks pr. portion."
+    ]
+}

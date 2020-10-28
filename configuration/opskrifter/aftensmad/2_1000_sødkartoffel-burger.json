@@ -1,0 +1,112 @@
+{
+    "name": "Sødkartoffelburger",
+    "calories": 900,
+    "image": "aftensmad/sødkartoffelbruger.jpeg",
+    "portions": 2,
+    "ingredients": [
+        {
+            "amount": 300,
+            "unit": "g.",
+            "name": "søde kartofler, skrællet og revet",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "dl.",
+            "name": "mandelmel",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "spsk.",
+            "name": "fiberhusk",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "dåse",
+            "name": "sorte bønner",
+            "shoppingList": true
+        },
+        {
+            "amount": 30,
+            "unit": "g.",
+            "name": "majs (1⁄2 lille dåse majs)",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "stk.",
+            "name": "rødløg",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "spsk.",
+            "name": "spidskommen",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "tsk.",
+            "name": "oregano",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "tsk.",
+            "name": "chiliflager",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "knivspids",
+            "name": "havsalt",
+            "shoppingList": false
+        },
+        {
+            "amount": 1,
+            "unit": "knivspids",
+            "name": "friskkværnet peber",
+            "shoppingList": false
+        },
+        {
+            "amount": 0.5,
+            "unit": "stk.",
+            "name": "avocado",
+            "shoppingList": false
+        },
+        {
+            "amount": 2,
+            "unit": "stk.",
+            "name": "spidskålsblade",
+            "shoppingList": false
+        },
+        {
+            "amount": 4,
+            "unit": "stk.",
+            "name": "agurk i skiver",
+            "shoppingList": false
+        },
+        {
+            "amount": 75,
+            "unit": "g.",
+            "name": "tomat i skiver",
+            "shoppingList": false
+        },
+        {
+            "amount": 4,
+            "unit": "tsk.",
+            "name": "tahindressing (se opskrift under Tilbehør)",
+            "shoppingList": false
+        }
+    ],
+    "procedure": [
+        "Skræl de søde kartofler og riv på et rivejern. Kom det i en skål sammen med mandelmel og fiberHusk.",
+        "Blend de sorte bønner, så det bliver til en pure.",
+        "Kom det ned i skålen til kartoffel og mel. Snit et rødløg fint og bland det i.",
+        "Tilføj majs og krydderierne.",
+        "Bland det hele sammen og lad det evt. stå og trække i ca. 5 min. Kommes på en bageplade og formes som bøffer. Bages ved 200 C. varmluft i ca. 20-30 min.",
+       "Bøfferne serveres mellem 2 salatblade med avocado, agurk, tomat og tahindressing (brug den du lavede i sidste uge eller se opskrift på tahindressing under tilbehør)"
+    ]
+}

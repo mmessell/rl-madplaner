@@ -1,0 +1,73 @@
+{
+    "name": "Spidskålssalat",
+    "calories": 600,
+    "image": "frokost/spidskålssalat.jpeg",
+    "portions": 1,
+    "ingredients": [
+        {
+            "amount": 100,
+            "unit": "g.",
+            "name": "spidskål",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stilk ",
+            "name": "bladselleri",
+            "shoppingList": true
+        },
+        {
+            "amount": 35,
+            "unit": "g.",
+            "name": "quinoa",
+            "shoppingList": true
+        },
+        {
+            "amount": 5,
+            "unit": "g.",
+            "name": "mandler",
+            "shoppingList": true
+        },
+        {
+            "amount": 20,
+            "unit": "g.",
+            "name": "rosiner",
+            "shoppingList": true
+        },
+        {
+            "amount": 3,
+            "unit": "spsk.",
+            "name": "hørfrøolie",
+            "shoppingList": false
+        },
+        {
+            "amount": 1,
+            "unit": "spsk.",
+            "name": "æblecidereddike",
+            "shoppingList": false
+        }, 
+        {
+            "amount": 1,
+            "unit": "knivspids",
+            "name": "havsalt",
+            "shoppingList": false
+        },
+        {
+            "amount": 0.25,
+            "unit": "bundt",
+            "name": "dild",
+            "shoppingList": false
+        } 
+    ],
+    "Procedure": [
+        "Forbered en basissalat af spidskål og bladselleri.",
+        "Snit ca. 100 g. spidskål fint og hak bladselleri",
+        "Kog også quinoa efter anvisning (35 g. tørvægt = 90 g. kogt ) og lad det nedkøle.",
+        "Bland en dressing af hørfrøolie, æblecidereddike og lidt havsalt",
+        "Kom alle ingredienser i en skål og vend med dressingen.",
+        "Top salaten med rosiner, hakkede mandler og lidt rengjort dild.",
+        "Serveres med en skive hjemmelavet kernebrød",
+        "",
+        "\\bold{Indeholder: 600 kcal per portion (42 g. kulhydrat / 42 g. fedt / 15 g. protein)}" 
+    ]
+}

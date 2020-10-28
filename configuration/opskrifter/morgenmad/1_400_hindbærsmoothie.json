@@ -1,0 +1,56 @@
+{
+    "Name": "Hindbærsmoothie m. granola",
+    "Calories": 400,
+    "Image": "morgenmad/hindbærsmoothie.jpeg",
+    "Portions": 1,
+    "Ingredients": [
+        {
+            "amount": 30,
+            "unit": "g.",
+            "name": "frosne hindbær",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "stk.",
+            "name": "banan",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "stk.",
+            "name": "frosne broccoli",
+            "shoppingList": true
+        },
+        {
+            "amount": 30,
+            "unit": "g.",
+            "name": "mandler",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "stk.",
+            "name": "dadler",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "dl.",
+            "name": "vand",
+            "shoppingList": false
+        },
+        {
+            "amount": 20,
+            "unit": "g.",
+            "name": "hjemmelavet granola",
+            "shoppingList": false
+        }
+    ],
+    "Procedure": [
+        "Kom alle ingredienserne i en blender, og kør til du har en jævn smoothie.",
+        "Juster konsistensen med mængden af vand. Hæld smoothien op i en skål og top med 20. g. hjemmelavet granola.",
+        "\\bold{400 kcal per portion (25 g. kulhydrat / 25 g. fedt / 15 g. protein)}"
+
+        ]
+}

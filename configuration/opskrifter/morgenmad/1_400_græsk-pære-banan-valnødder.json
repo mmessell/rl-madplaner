@@ -1,0 +1,39 @@
+{
+    "name": "Græsk yoghurt m. pære, banan og valnødder",
+    "calories": 400,
+    "image": "morgenmad/kefir-pære-banan.jpg",
+    "portions": 1,
+    "ingredients": [
+        {
+            "amount": 200,
+            "unit": "g.",
+            "name": "græsk yoghurt (2 pct.)",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "pære",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "banan",
+            "shoppingList": true
+        },
+        {
+            "amount": 5,
+            "unit": "stk.",
+            "name": "valnødder",
+            "shoppingList": true
+        }
+    ],
+    "procedure": [
+        "Hæld 200 g. græsk yoghurt op i en skål",
+        "Skær pære, banan og valnødder ud i små mundrette stykker og drys det over din yoghurt",
+        "",
+        "\\bold{Indeholder: 400 kcal per portion (43 g. kulhydrat / 13 g. fedt / 24 g. protein)}" 
+
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "name": "Fiskefrikadeller m. råkost",
+    "calories": 350,
+    "image": "aftensmad/græsk-quinoasalat-sødkartoffel.jpeg",
+    "portions": 1,
+    "ingredients": [
+        {
+            "amount": 500,
+            "unit": "g.",
+            "name": "torsk",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "stk.",
+            "name": "æg",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "løg",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "lille sød kartoffel",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "bundt.",
+            "name": "bredbladet persille",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "spsk.",
+            "name": "havregryn",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "tsk.",
+            "name": "timian",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "tsk.",
+            "name": "salt",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "spsk.",
+            "name": "kokosolie",
+            "shoppingList": false
+        },
+        {
+            "amount": 3,
+            "unit": "stk.",
+            "name": "gulerødder",
+            "shoppingList": false
+        },
+        {
+            "amount": 2,
+            "unit": "stk.",
+            "name": "æbler",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "citron",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "spsk.",
+            "name": "honning",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "spsk.",
+            "name": "solsikkekerner",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "spsk.",
+            "name": "rosiner",
+            "shoppingList": true
+        }
+    ],
+    "procedure": [
+        "Hak fisk, æg, havsalt, kartoffel, løg, havregryn og timian i en foodprocessor",
+        "Form farsen til en frikadelle og steg på panden.",
+        "Bland 3 spsk. citronsaft og honning, vend derefter de groftrevet gulerødder og æbler heri."
+        "Tilsæt solsikkekerner og rosiner",
+        "Spis så mange fiskefrikadeller du har lyst til gem resten til i morgen",
+        "\\bold{Indeholder: 550 kcal per portion (0 g. kulhydrat / 0 g. fedt / 0 g. protein)}" 
+    ]
+}

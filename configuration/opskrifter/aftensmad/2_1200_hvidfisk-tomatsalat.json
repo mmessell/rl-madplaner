@@ -1,0 +1,74 @@
+{
+    "name": "Hvid fisk m. tomatsalat",
+    "calories": 1200,
+    "image": "aftensmad/tomatsalat.jpeg",
+    "portions": 2,
+    "ingredients": [
+        {
+            "amount": 2,
+            "unit": "stk.",
+            "name": "hvid fisk (fx. torsk, rødspætte, kuller)",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "tsk.",
+            "name": "smør (til stegning)",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "knivspids",
+            "name": "havsalt",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "knivspids",
+            "name": "friskkværnet peber",
+            "shoppingList": true
+        },
+        {
+            "amount": 3,
+            "unit": "stk.",
+            "name": "store tomater",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "avocado",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "bundt",
+            "name": "forårsløg",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "bundt",
+            "name": "basilikum",
+            "shoppingList": true
+        },
+        {
+            "amount": 4,
+            "unit": "spsk.",
+            "name": "olivenolie",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "spsk.",
+            "name": "æblecidereddike",
+            "shoppingList": true
+        }
+    ],
+    "procedure": [
+        "Start med at lave tomatsalaten.",
+        "Vask tomaterne og skær dem i skiver, ordn avocadoen.",
+         "Anret i en skål og hæld dressing af 4 spsk. olivenolie, 2 spsk. æblecidereddike og havsalt over.",
+        "Smelt en klat smør på panden. Steg fiskefileterne til de er lysebrune, i ca. 5 minutter på hver side ved svag varme. Krydr med havsalt og peber."
+    ]
+}

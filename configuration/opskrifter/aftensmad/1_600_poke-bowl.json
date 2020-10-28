@@ -1,0 +1,99 @@
+{
+    "name": "PokeBowl",
+    "calories": 600,
+    "image": "aftensmad/pokebowl.jpeg",
+    "portions": 1,
+    "ingredients": [
+        {
+            "amount": 150,
+            "unit": "g.",
+            "name": "laks",
+            "shoppingList": true
+        },
+        {
+            "amount": 50,
+            "unit": "g.",
+            "name": "edamame bønner",
+            "shoppingList": true
+        },
+        {
+            "amount": 75,
+            "unit": "g.",
+            "name": "spidskål",
+            "shoppingList": true
+        },
+        {
+            "amount": 50,
+            "unit": "g.",
+            "name": "cherrytomater",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.25,
+            "unit": "stk.",
+            "name": "agurk",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "stk.",
+            "name": "avocado",
+            "shoppingList": true
+        },
+        {
+            "amount": 20,
+            "unit": "g.",
+            "name": "tranebær",
+            "shoppingList": true
+        },
+        {
+            "amount": 7,
+            "unit": "spsk.",
+            "name": "tahin",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "fed",
+            "name": "hvidløg",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "citron, saft herfra",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "dl.",
+            "name": "vand",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "knivspids",
+            "name": "havsalt",
+            "shoppingList": false
+        },
+        {
+            "amount": 1,
+            "unit": "knivspids",
+            "name": "peber",
+            "shoppingList": false
+        }
+    ],
+    "procedure": [
+        "Krydr laksen med salt og peber, og tilbered den i ovnen på 180 graders varmluft i ca. 15 minutter.",
+        "Tilbered/optø edamame bønner efter anvisning på posen.",
+        "Hak spidskål fint. Skær tomater midt over. Skær avocado og agurk i skiver.",
+        "Anret laks og grøntsager i én skål",
+        "\\bold{Lav derefter en tahindressing}",
+        "Kom tahin i en skål og pisk det sammen med citronsaft.",
+        "Tilsæt fint hakket hvidløg og salt og rør det til en cremet og tyk konsistens",
+        "Tilsæt vandet lidt af gangen (0.5 dl.) og pisk dressingen cremet og flydende.",
+        "Smag tahindressingen til med salt og peber.",
+        "Hæld dressingen på et glas og server til din poke bowl (ca. 2 spsk.).",
+        "Dressingen opbevares det i køleskabet og holder sig min. 1 uge"
+    ]
+}

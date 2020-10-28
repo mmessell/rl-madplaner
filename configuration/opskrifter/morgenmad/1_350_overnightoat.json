@@ -1,0 +1,50 @@
+{
+    "name": "Overnight Oat",
+    "calories": 350,
+    "image": "morgenmad/overnightoat.jpeg",
+    "portions": 1,
+    "ingredients": [
+        {
+            "amount": 50,
+            "unit": "g.",
+            "name": "havregryn",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "spsk.",
+            "name": "chiafrø",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "stk.",
+            "name": "banan",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "stk.",
+            "name": "æble",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "dl.",
+            "name": "mandelmælk",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "tsk.",
+            "name": "kanel",
+            "shoppingList": false
+        }
+    ],
+    "procedure": [
+        "\\bold{Forberedes aftenen før}",
+        "Læg chiafrø og gryn i blød i mandelmælken og lad det stå natten over.",
+        "Top grøden med banan, æble og kanel.",
+        "Du kan også bruge granatæble istedet for æbler."
+    ]
+}

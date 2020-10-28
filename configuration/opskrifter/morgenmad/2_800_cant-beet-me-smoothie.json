@@ -1,0 +1,59 @@
+{
+    "Name": "Can't beet be smoothie m. granola",
+    "Calories": 800,
+    "Image": "morgenmad/cant beet me smoothie m. granola.jpg",
+    "Portions": 2,
+    "Ingredients": [
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "banan",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "lille rødbede",
+            "shoppingList": true
+        },
+        {
+            "amount": 150,
+            "unit": "g",
+            "name": "jordbær",
+            "shoppingList": true
+        },
+        {
+            "amount": 20,
+            "unit": "g.",
+            "name": "mandler",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "stk.",
+            "name": "dadler",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "dl.",
+            "name": "vand",
+            "shoppingList": false
+        },
+        {
+            "amount": 40,
+            "unit": "g.",
+            "name": "hjemmelavet granola",
+            "shoppingList": false
+        }
+    ],
+    "Procedure": [
+        "Kom alle ingredienserne i en blender, og kør til du har en jævn smoothie.",
+        "Juster konsistensen med mængden af vand.",
+        "Du kan med fordel opbløde mandlerne natten over, inden du kommer dem i smoothien.",
+        "Lav en omgang hjemmelavet granola. Se opskrift under tilbehør",
+        "Hæld smoothien op i en skål og top med 20. g. hjemmelavede granola i hver.",
+        "",
+        "\\bold{Indeholder: 500 kcal per portion (51 g. kulhydrat / 13 g. fedt / 10 g. protein)}" 
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "name": "Spejlæg m. kernebrød",
+    "calories": 900,
+    "image": "kålssalat m. kikærter",
+    "portions": 2,
+    "ingredients": [
+        {
+            "amount": 200,
+            "unit": "g.",
+            "name": "spidskål",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "stilke",
+            "name": "bladselleri",
+            "shoppingList": true
+        },
+        {
+            "amount": 130,
+            "unit": "g.",
+            "name": "kogte kikærter",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "bundt",
+            "name": "persille",
+            "shoppingList": true
+        },
+        {
+            "amount": 30,
+            "unit": "g.",
+            "name": "mandler",
+            "shoppingList": true
+        },
+        {
+            "amount": 30,
+            "unit": "g.",
+            "name": "rosiner",
+            "shoppingList": true
+        },
+        {
+            "amount": 5,
+            "unit": "spsk.",
+            "name": "olivenolie",
+            "shoppingList": false
+        },
+        {
+            "amount": 3,
+            "unit": "spsk.",
+            "name": "æblecidereddike",
+            "shoppingList": false
+        },
+        {
+            "amount": 1,
+            "unit": "knivspids",
+            "name": "havsalt",
+            "shoppingList": false
+        } 
+    ],
+    "Procedure": [
+        "Forbered en basissalat af spidskål og bladselleri.",
+        "Kål snittes fint, bladselleri også relativt fint",
+        "Rengør og snit basilikum inklusive stilke.",
+        "Kom basissalat, solsikkekerner og basilikum i en stor skål, som vendes med en dressing af olivenolie, æblecidereddike og havsalt.",
+        "Salaten anrettes med 2 skiver laks pr. portion."
+    ]
+}

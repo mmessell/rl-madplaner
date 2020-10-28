@@ -1,0 +1,62 @@
+{
+    "name": "Snackbrød",
+    "calories": 300,
+    "image": "frokost/snackbrød.jpeg",
+    "portions": 1,
+    "ingredients": [
+        {
+            "amount": 60,
+            "unit": "g.",
+            "name": "hasselnødder",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "stk.",
+            "name": "rødbeder (ca. 200 g.)",
+            "shoppingList": true
+        },
+        {
+            "amount": 60,
+            "unit": "g.",
+            "name": "mørk chokolade",
+            "shoppingList": true
+        },
+        {
+            "amount": 3,
+            "unit": "stk.",
+            "name": "æg",
+            "shoppingList": true
+        },
+        {
+            "amount": 70,
+            "unit": "g.",
+            "name": "havregryn",
+            "shoppingList": false
+        },
+        {
+            "amount": 70,
+            "unit": "g.",
+            "name": "chiafrø",
+            "shoppingList": false
+        },
+        {
+            "amount": 60,
+            "unit": "g.",
+            "name": "rosiner",
+            "shoppingList": false
+        },
+        {
+            "amount": 0.5,
+            "unit": "tsk.",
+            "name": "vanilje",
+            "shoppingList": false
+        }      
+    ],
+    "Procedure": [
+        "Sæt ovnen på 150 grader. Bred nødderne ud på en bageplade og bag dem i ovnen i 10 minutter.",
+        "Skræl rødbederne og riv dem fint. Hak chokoladen og evt. også hasselnødderne.",
+        "Kom alle ingredienser i en skål, og lad dem trække i 10-15 minutter, så chiafrøene kan suge væske til sig.",
+        "Bag i ovnen i 20-25 minutter ved 175 grader varmluft."
+        ]
+}

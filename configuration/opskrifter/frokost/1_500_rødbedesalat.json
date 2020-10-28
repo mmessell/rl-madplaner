@@ -1,0 +1,62 @@
+{
+    "name": "Rødbedesalat",
+    "calories": 1200,
+    "image": "aftensmad/rødbedesalat.jpeg",
+    "portions": 2,
+    "ingredients": [
+        {
+            "amount": 1.5,
+            "unit": "dl.",
+            "name": "quinoa, rå (= ca. 210 kogt)",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "stk.",
+            "name": "rødbeder",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "bundt",
+            "name": "dild",
+            "shoppingList": true
+        },
+        {
+            "amount": 20,
+            "unit": "g.",
+            "name": "solsikkekerner",
+            "shoppingList": true
+        },
+        {
+            "amount": 40,
+            "unit": "g.",
+            "name": "rosiner",
+            "shoppingList": false
+        },
+        {
+            "amount": 5,
+            "unit": "spsk.",
+            "name": "olivenolie",
+            "shoppingList": false
+        },
+        {
+            "amount": 3,
+            "unit": "spsk.",
+            "name": "æblecidereddike",
+            "shoppingList": false
+        },
+        {
+            "amount": 0.25,
+            "unit": "stk.",
+            "name": "appelsin, saften herfra",
+            "shoppingList": true
+        }
+    ],
+    "procedure": [
+        "Quinoa koges efter anvisning og afkøles",
+        "Rengør rødbederne (skrælles hvis de ikke er økologiske). Rives på den grove side af et rivejern.",
+        "Skyl dild og hak den groft. Rør dressingen sammen med appelsinsaft.",
+        "Vend alle ingredienser sammen i en skål."
+    ]
+}

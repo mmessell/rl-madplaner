@@ -1,0 +1,107 @@
+{
+    "name": "Vegetar pariserbøf",
+    "calories": 1000,
+    "image": "aftensmad/rødbedebøffer.jpeg",
+    "portions": 2,
+    "ingredients": [
+        {
+            "amount": 3,
+            "unit": "dl.",
+            "name": "rødbeder, fintrevet",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "dl.",
+            "name": "gulerod, fintrevet",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "dl.",
+            "name": "havregryn, finvalset",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "1 rødløg, finthakket",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "fed.",
+            "name": "hvidløg, finthakket",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "stk.",
+            "name": "æg",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "tsk.",
+            "name": "dijon sennep",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "knivspids",
+            "name": "havsalt",
+            "shoppingList": false
+        },
+        {
+            "amount": 1,
+            "unit": "knivspids",
+            "name": "friskkværnet peber",
+            "shoppingList": false
+        },
+        {
+            "amount": 1,
+            "unit": "spsk.",
+            "name": "olivenolie til stegning",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "stk.",
+            "name": "æg",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "peberrod, friskrevet",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "stk.",
+            "name": "rødløg, skåret i tynde skiver",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.25,
+            "unit": "bundt",
+            "name": "purløg",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "spsk.",
+            "name": "kapers",
+            "shoppingList": true
+        }
+    ],
+    "procedure": [
+        "Pres evt overskydende saft fra rødbeder og gulerødder. Kom dem i en skål og rør farsen med resten af ingredienserne.",
+        "Form ‘farsen’ til bøffer, og hvis den er for våd, så  tilsæt lidt mere havregryn, til den hænger godt sammen.",
+        "Steg bøfferne på panden ved middel varme i lidt smør eller olie. Ca. 5-6 min. på hver side",
+        "Lav 1 spejlæg per portion",
+        "De færdige rødbedebøffer (ca. 1-2 per person) serveres som vegetar pariserbøf med spejlæg, kapers, peberrod, purløg og rødløg.",
+        "Rist evt. et broccolibrød og spis dertil",
+        "Gem en portion til i morgen, frys resten af rødbedebøfferne ned."
+    ]
+}

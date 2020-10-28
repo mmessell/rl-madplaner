@@ -1,0 +1,75 @@
+{
+    "name": "Hjemmelavet granola",
+    "calories": 1300,
+    "image": "morgenmad/granola.jpeg",
+    "portions": 1,
+    "ingredients": [
+        {
+            "amount": 1,
+            "unit": "spsk.",
+            "name": "kokosolie",
+            "shoppingList": true
+        },
+        {
+            "amount": 50,
+            "unit": "g.",
+            "name": "havregryn",
+            "shoppingList": true
+        },
+        {
+            "amount": 60,
+            "unit": "g.",
+            "name": "mandler",
+            "shoppingList": true
+        },
+        {
+            "amount": 35,
+            "unit": "g.",
+            "name": "kokosmel",
+            "shoppingList": true
+        },
+        {
+            "amount": 55,
+            "unit": "g.",
+            "name": "græskarkerner",
+            "shoppingList": true
+        },
+        {
+            "amount": 50,
+            "unit": "g.",
+            "name": "solsikkekerner",
+            "shoppingList": true
+        },
+        {
+            "amount": 30,
+            "unit": "g.",
+            "name": "chiafrø",
+            "shoppingList": false
+        },
+        {
+            "amount": 50,
+            "unit": "g.",
+            "name": "sesamfrø",
+            "shoppingList": false
+        },
+        {
+            "amount": 1,
+            "unit": "spsk.",
+            "name": "honning",
+            "shoppingList": false
+        },
+        {
+            "amount": 0.5,
+            "unit": "spsk.",
+            "name": "kanel",
+            "shoppingList": false
+        } 
+    ],
+    "Procedure": [
+        "Smelt kokosolie og hæld havregryn på panden sammen med honning, kom mandler på - skal varmes stille og roligt igennem.",
+        "Hæld dernæst græskarkerner, kokosmel, solsikkekerner, chia, hørfrø og sesamfrø på panden med kanel.",
+   "Afkøles helt og hældes på glas/opbevaringsbøtte.",
+        "",
+        "526 kcal pr. 100 g."
+        ]
+}

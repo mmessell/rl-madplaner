@@ -1,0 +1,106 @@
+{
+    "name": "Tunsalat",
+    "calories": 1000,
+    "image": "aftensmad/tunsalat.jpeg",
+    "portions": 2,
+    "ingredients": [
+        {
+            "amount": 2,
+            "unit": "dåser.",
+            "name": "tun i vand",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "stilke.",
+            "name": "bladselleri",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "stk.",
+            "name": "agurk",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "bundt",
+            "name": "radiser",
+            "shoppingList": true
+        },
+        {
+            "amount": 3,
+            "unit": "stk.",
+            "name": "forårsløg",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "stk.",
+            "name": "rødløg",
+            "shoppingList": true
+        },
+        {
+            "amount": 45,
+            "unit": "g.",
+            "name": "sorte oliven",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "bundt",
+            "name": "persille",
+            "shoppingList": true
+        },
+        {
+            "amount": 15,
+            "unit": "stk.",
+            "name": "friske mynteblade",
+            "shoppingList": true
+        },
+        {
+            "amount": 150,
+            "unit": "g.",
+            "name": "tomater",
+            "shoppingList": true
+        },
+        {
+            "amount": 2.5,
+            "unit": "tsk.",
+            "name": "dijonsennep",
+            "shoppingList": true
+        },
+        {
+            "amount": 5,
+            "unit": "spsk.",
+            "name": "olivenolie",
+            "shoppingList": false
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "lime, saften herfra",
+            "shoppingList": false
+        },
+        {
+            "amount": 1,
+            "unit": "knivspids",
+            "name": "havsalt",
+            "shoppingList": false
+        },
+        {
+            "amount": 1,
+            "unit": "knivspids",
+            "name": "peber",
+            "shoppingList": false
+        }
+    ],
+    "procedure": [
+        "Bland dijonsennep, olivenolie, lime, salt og peber sammen til en dressing.",
+        "Hæld tun i en skål.",
+        "Hak bladselleri, agurk, radiser, forårsløg, rødløg, oliven, persille og mynte. Bland alle ingredienserne sammen.",
+         "Tilsæt dressing og rør det hele godt rundt.",
+         "\\bold{Indeholder: 500 kcal per portion (12 g. kulhydrat / 38 g. fedt / 17 g. protein)}" 
+
+    ]
+}

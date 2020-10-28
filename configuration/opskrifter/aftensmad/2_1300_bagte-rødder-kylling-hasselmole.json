@@ -1,0 +1,68 @@
+{
+    "name": "Bagte rødder m. kylling og avocadocreme",
+    "calories": 1200,
+    "image": "aftensmad/rodfrugter.jpeg",
+    "portions": 2,
+    "ingredients": [
+        {
+            "amount": 500,
+            "unit": "g.",
+            "name": "rodfrugter (f.eks. rødbede, gulerødder, pastinak)",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "spsk.",
+            "name": "olivenolie",
+            "shoppingList": false
+        },
+        {
+            "amount": 2,
+            "unit": "kviste",
+            "name": "frisk timian",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "stk.",
+            "name": "kyllingefilet",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "avokado",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "fed",
+            "name": "hvidløg",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "spsk.",
+            "name": "olivenolie",
+            "shoppingList": false
+        },
+        {
+            "amount": 1,
+            "unit": "spsk.",
+            "name": "citronsaft",
+            "shoppingList": false
+        },
+        {
+            "amount": 0.5,
+            "unit": "bundt",
+            "name": "bredbladet persille",
+            "shoppingList": true
+        }
+    ],
+    "procedure": [
+        "Skræl rodfrugterne og skær dem i mundrette stykker. Kom dem i en plasticpose/frysepose. Hæld olivenolie i og luk posen. Ryst posen godt, så olien fordeles på alle stykkerne. Hæld rodfrugterne i et ildfast fad eller fordel dem på en bageplade med bagepapir. Tilsæt salt og peber og læg timiankvistene ved. Bag i ovnen ved 200 grader i ca. 40 minutter eller til rodfrugterne er møre, men stadig har bid.",
+        "Gnid kyllingelårene ind i havsalt og peber. Steges på panden i ca. 10 minutter (eller i ovnen på 180 grader varmluft sammen med de søde kartofler i ca. 35 minutter).",
+        "Pil og hak hvidløg, samt persille fint. Mos avokadoerne med hvidløg og kom det en i skål med persille. Tilsæt olivenolie, citron og salt.",
+        "Server kyllingen med de bagte rodfrugter og hasselmole."
+    ]
+}

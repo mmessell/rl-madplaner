@@ -1,0 +1,98 @@
+{
+    "name": "Bønnedeller",
+    "calories": 720,
+    "image": "frokost/falafler-med-sød-kartoffel.jpeg",
+    "portions": 1,
+    "ingredients": [
+        {
+            "amount": 2,
+            "unit": "stk.",
+            "name": "æg",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "dåse",
+            "name": "sorte bønner eller kidney bønner",
+            "shoppingList": true
+        },
+        {
+            "amount": 3,
+            "unit": "fed",
+            "name": "hvidløg, presset",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "rødløg, finthakket",
+            "shoppingList": true
+        },
+        {
+            "amount": 30,
+            "unit": "g.",
+            "name": "havregryn",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "tsk.",
+            "name": "stødt spidskommen",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "tsk.",
+            "name": "stødt koriander",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "tsk.",
+            "name": "karry",
+            "shoppingList": true
+        },
+        {
+            "amount": 5,
+            "unit": "dryp",
+            "name": "tabasco",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "tsk.",
+            "name": "salt",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "knivspids",
+            "name": "friskkværnet sort peber",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "spsk.",
+            "name": "olivenolie, til stegning",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "håndfuld",
+            "name": "bredbladet persille",
+            "shoppingList": true
+        }
+        
+        
+        
+    ],
+    "procedure": [
+        "\\bold{Bønnedeller}",
+       "Kom alle ingredienser i en foodprocesser eller blender.",
+       "Blend det til en ensartet masse og form dem til lækre deller ala frikadellestørrelse, som steges på panden i olie eller smør",
+       "Kan nedfryses.",
+       "\\bold{60 kcal. per stk. (5 g. kulhydrat / 5 g. fedt / 4 g. protein)}"
+
+        
+    ]
+}

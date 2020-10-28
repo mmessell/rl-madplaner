@@ -1,0 +1,40 @@
+{
+    "name": "Spinatpandekager m. bønnedeller",
+    "calories": 450,
+    "image": "frokost/spinatpandekager.jpeg",
+    "portions": 1,
+    "ingredients": [
+        {
+            "amount": 2,
+            "unit": "stk.",
+            "name": "æg",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "håndfuld",
+            "name": "spinat",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "spsk.",
+            "name": "fiberHUSK",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "knivspids",
+            "name": "havsalt",
+            "shoppingList": true
+        }
+        
+    ],
+    "procedure": [
+        "\\bold{Spinatpandekager}",
+        "Svits én håndfuld spinat på panden i 5 minutter. Kom herefter spinat og 2 æg i en blender, og blend det til en ensartet masse.",
+        "Tilsæt fiberHUSK og havsalt, og steg pandekagen i kokosolie ved svag varme i 5-7 minutter. Vend den undervejs.",
+        "Fyld pandekagen med 4 bønnedeller (se opskrift under tilbehør), én håndfuld spinat og ca. 25 g. rødbedehummus (se opskrift under tilbehør)"
+        
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Granola",
+    "calories": 1300,
+    "image": "granola.jpg",
+    "portions": 1,
+    "ingredients": [
+        {
+            "amount": 1,
+            "unit": "spsk.",
+            "name": "kokosolie",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "dl.",
+            "name": "glutenfri havregryn",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "dl.",
+            "name": "mandler",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "dl.",
+            "name": "kokosmel",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "dl.",
+            "name": "græskarkerner",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "dl.",
+            "name": "solsikkekerner",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "dl.",
+            "name": "chiafrø",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "spsk.",
+            "name": "honning",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "tsk.",
+            "name": "kanel",
+            "shoppingList": true
+        },
+    ],
+    "procedure": [
+        "Smelt kokosolien på en pande.",
+        "Rist havregryn på pandenmed hakkede mandler og vend med honning.",
+        "Tilsæt kokosmel, græskarkerner, solsikkekerner, chiafrø og kanel",
+        "Når granolaen har fået en flot gylden farve tages den af panden og køles ned. Evt fordelt på bagepapir",
+        "Opbevar granolaen i en lukket beholder som f.eks. et patentglas eller en kagedåse"
+        
+
+
+    ]
+}

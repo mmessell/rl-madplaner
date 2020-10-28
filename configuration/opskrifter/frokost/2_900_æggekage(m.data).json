@@ -1,0 +1,79 @@
+{
+    "name": "Æggekage m. kikærter og spinat",
+    "calories": 900,
+    "image": "frokost/omelet-spinat.jpeg",
+    "portions": 2,
+    "ingredients": [
+        {
+            "amount": 5,
+            "unit": "stk.",
+            "name": "æg",
+            "shoppingList": true
+        },
+        {
+            "amount": 120,
+            "unit": "g.",
+            "name": "kogte kikærter",
+            "shoppingList": true
+        },
+        {
+            "amount": 150,
+            "unit": "g.",
+            "name": "spinat",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "stk.",
+            "name": "løg",
+            "shoppingList": true
+        },
+        {
+            "amount": 125,
+            "unit": "g.",
+            "name": "cherrytomater",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "spsk.",
+            "name": "karry",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "tsk.",
+            "name": "paprika",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "spsk.",
+            "name": "kokosolie",
+            "shoppingList": false
+        }, 
+        {
+            "amount":1,
+            "unit": "knivspids",
+            "name": "havsalt",
+            "shoppingList": false
+        },
+        {
+            "amount":1,
+            "unit": "knivspids",
+            "name": "friskkværnet peber",
+            "shoppingList": false
+        }
+    ],
+    "Procedure": [
+        "Læg kikærterne i blød i 10-12 timer (60 g. = ca. 120 g. kogte)",
+        "Skyl de opblødte kikærter godt og kog dem i nyt vand i ca. 1 time. Si vandet fra og lad dem køle af.", 
+        "Eller anvend 1/2 dåse kikærter, som er skyllet grundigt.",
+        "Skyl spinat og pil og hak løget samt tomater.",
+        "Svits hakket løg i olie samt krydderier. Tilsæt spinat og tomat og lad det simre lidt.",
+        "Pisk æggene godt sammen, kom den på panden og steg æggekagen på en pande ved svag varme, indtil den har sat sig og er fast.",
+        "Serveres med 1 stk. kernebrød pr. portion",
+        "",
+        "\\bold{Indeholder: 450 kcal per portion (20 g. kulhydrat / 25 g. fedt / 28 g. protein)}" 
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Grøn Lykke",
+    "calories": 800,
+    "image": "morgenmad/grønlykke.jpeg",
+    "portions": 2,
+    "ingredients": [
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "avocado",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "banan",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "appelsin",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "grape",
+            "shoppingList": true
+        },
+        {
+            "amount": 30,
+            "unit": "g.",
+            "name": "mandler",
+            "shoppingList": true
+        },
+        {
+            "amount": 5,
+            "unit": "stk.",
+            "name": "dadler",
+            "shoppingList": true
+        },
+        {
+            "amount": 4,
+            "unit": "kugler.",
+            "name": "frossen spinat",
+            "shoppingList": false
+        }, 
+        {
+            "amount": 2,
+            "unit": "dl.",
+            "name": "vand",
+            "shoppingList": false
+        }
+    ],
+    "procedure": [
+        "Ordn avocadoen, skær bananen halvt over og pil appelsin samt grapefrugten og halver dem.",
+        "Kom alle ingredienserne i en blender, og kør til du har en jævn smoothie/drik, som nydes af et glas eller i en skål med hjemmelavet granola.",
+        "Du kan med fordel opbløde både mandler og dadler natten over"
+    ]
+}

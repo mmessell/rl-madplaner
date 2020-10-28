@@ -1,0 +1,53 @@
+{
+    "name": "Rød spidskålssalat med Du Puy linser",
+    "calories": 1200,
+    "image": "aftensmad/spidskål-du-puy-linser.jpeg",
+    "portions": 2,
+    "ingredients": [
+        {
+            "amount": 200,
+            "unit": "g.",
+            "name": "rød spidskål",
+            "shoppingList": true
+        },
+        {
+            "amount": 100,
+            "unit": "g.",
+            "name": "kogte Du puy linser",
+            "shoppingList": true
+        },
+        {
+            "amount": 30,
+            "unit": "g.",
+            "name": "pinjekerner",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "bundt",
+            "name": "dild",
+            "shoppingList": true
+        },
+        {
+            "amount": 5,
+            "unit": "spsk.",
+            "name": "olivenolie",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "knivspids",
+            "name": "havsalt",
+            "shoppingList": false
+        }
+    ],
+    "procedure": [
+        "Kog linserne efter anvisning på posen og afkøl dem.",
+        "Snit spid- skålen fint, rengør og snit dild og kom alle ingredienser op i en stor skål.",
+        "Vend dressingen over.",
+        "Du kan også bruge belugalinser i stedet for du puy linser.",
+        "\\bold{600 kcal per portion (40 g. kulhydrat / 40 g. fedt / 18 g. protein)}"
+
+
+    ]
+}

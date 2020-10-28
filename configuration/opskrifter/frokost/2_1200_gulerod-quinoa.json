@@ -1,0 +1,91 @@
+{
+    "name": "Gulerodssalat ",
+    "calories": 1200,
+    "image": "frokost/gulerodsquinoa.jpeg",
+    "portions": 2,
+    "ingredients": [
+        {
+            "amount": 1.5,
+            "unit": "dl.",
+            "name": "quinoa, rå (= ca. 210 kogt)",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "dåse",
+            "name": "drænede kikærter",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "tsk.",
+            "name": "paprika",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "spsk.",
+            "name": "spidskommen",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "stk.",
+            "name": "store gulerødder",
+            "shoppingList": true
+        },
+        {
+            "amount": 10,
+            "unit": "stk.",
+            "name": "tørrede abrikoser",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "håndfuld",
+            "name": "mynteblade",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "håndfuld",
+            "name": "bredbladet persille",
+            "shoppingList": false
+        },
+        {
+            "amount": 20,
+            "unit": "stk.",
+            "name": "hasselnødder",
+            "shoppingList": false
+        },
+        {
+            "amount": 0.5,
+            "unit": "stk.",
+            "name": "citron, saften herfra",
+            "shoppingList": false
+        },
+        {
+            "amount": 4,
+            "unit": "spsk.",
+            "name": "olivenolie",
+            "shoppingList": true
+        }, 
+        {
+            "amount": 1,
+            "unit": "tsk.",
+            "name": "honning",
+            "shoppingList": true
+        }
+    ],
+    "procedure": [
+        "Kog quinoaen efter anvisningen på posen. Lad den køle af – skal det gå hurtigt, kan du brede den ud, fx på et stykke bagepapir.",
+        "Dræn en dåse kikærter, vend dem i olivenolie, salt, paprika og spidskommen.",
+        "Læg dem på bagepapir, og giv dem 20-30 minutter ved 150 grader - evt. sammen med hasselnødderne, som skal have ca. 15 min.",
+        "Alternativt rist hasselnødderne på en pande",
+        "Skyl mynte og persille, tør det let i et rent viskestykke. Pil stænglerne fra, og hak bladene.",
+        "Skræl gulerødderne, og snit dem på et mandolinjern eller riv dem groft.",
+        "Skær abrikoserne i tynde skiver. Hak nødderne groft.",
+        "Bland en dressing af citonsaft, olivenolie, honning og lidt salt",
+        "Vend quinoa, kikærter, gulerødder, abrikoser og krydderurter godt sammen. Hæld dressingen over – og drys med nødderne."
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Broccolibrød m. rødbedehummus",
+    "calories": 400,
+    "image": "frokost/broccoli.jpeg",
+    "portions": 1,
+    "ingredients": [
+        {
+            "amount": 2,
+            "unit": "stk.",
+            "name": "broccolibrød",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stk",
+            "name": "tomat",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "stk.",
+            "name": "avocado",
+            "shoppingList": true
+        },
+        {
+            "amount": 50,
+            "unit": "g.",
+            "name": "rødbedehummus (se opskrift under tilbehør)",
+            "shoppingList": true
+        }
+    ],
+    "procedure": [
+        "Anret en tallerken med broccolibrød (se under tilbehør), hjemmelavet rødbedehummus, avocado og tomat skåret i skiver med havsalt og peber.",
+        "Lav evt. som en sandwich",
+       "\\bold{400 kcal per portion (18 g. kulhydrat / 24 g. fedt / 16 g. protein)}"
+
+        
+    ]
+}

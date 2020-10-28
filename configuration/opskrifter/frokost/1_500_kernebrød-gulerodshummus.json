@@ -1,0 +1,99 @@
+{
+    "name": "Kernebrød m. gulerodshummus",
+    "calories": 1750,
+    "image": "frokost/kernebrød-gulerodshummus.jpeg",
+    "portions": 5,
+    "ingredients": [
+        {
+            "amount": 80,
+            "unit": "g.",
+            "name": "kogte kikærter",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "gulerod",
+            "shoppingList": true
+        },
+        {
+            "amount": 5,
+            "unit": "spsk.",
+            "name": "olivenolie",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "fed",
+            "name": "hvidløg",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "spsk.",
+            "name": "tahin",
+            "shoppingList": true
+        },
+        {
+            "amount": 10,
+            "unit": "g.",
+            "name": "mandler",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "stk.",
+            "name": "citron, saft herfra",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "spsk.",
+            "name": "stødt spidskommen",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "tsk.",
+            "name": "cayennepeber",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "spsk.",
+            "name": "stødt gurkemeje",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "tsk.",
+            "name": "salt",
+            "shoppingList": false
+        },
+        {
+            "amount": 0.25,
+            "unit": "bundt",
+            "name": "dild",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "forårsløg",
+            "shoppingList": true
+        }
+    ],
+    "procedure": [
+        "Tilbered kikærterne efter anvisning på posen, afkøles.",
+        "Eller anvend kikærter fra dåse, som skyllles godt.",
+       "Rengør gulerødder og skær dem i mindre stykker.",
+       "Hæld alle ingredienser i en foodprocessor eller brug en stavblender og spæd op med lidt kogevand, så hummussen bliver cremet.",
+       "Smag til med citronsaft og havsalt.",
+       "Smør gulerodshummus (ca. 50 g.) på 2-3 skiver kernebrød (se opskrift under tilbehør)",
+       "Læg derefter dild og snittet forårsløg eller rødløg på. Brug gerne så meget løg du kan lide (løg er meget antiinflammatorisk.)",
+       "Spis gerne et par gulerødder, tomater eller andet gnavegrønt til",
+       "\\bold{350 kcal per portion (20 g. kulhydrat / 30 g. fedt / 19 g. protein)}"
+
+        
+    ]
+}

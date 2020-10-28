@@ -1,0 +1,49 @@
+{
+    "name": "Tahin-dressing",
+    "calories": 300,
+    "image": "morgenmad/kernebrød.jpeg",
+    "portions": 1,
+    "ingredients": [
+        {
+            "amount": 2,
+            "unit": "spsk.",
+            "name": "tahin",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "tsk.",
+            "name": "soya (gerne shoyu)",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "lime, saften herfra",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "dl.",
+            "name": "vand",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "knivspids",
+            "name": "havsalt",
+            "shoppingList": false
+        },
+        {
+            "amount": 1,
+            "unit": "knivspids",
+            "name": "friskkværnet peber",
+            "shoppingList": false
+        }  
+    ],
+    "Procedure": [
+        "Kom tahin, soya, salt, peber og lime ned i en stavblender.",
+        "Hæld halvdelen af vandet ned ved. Blend og tilføj mere vand lidt af gangen til den rette konsistens opnås.",
+         "Lav evt. en større portion, da dressingen sagtens kan opbevares i køleskabet i en tætsluttende beholder."
+        ]
+}

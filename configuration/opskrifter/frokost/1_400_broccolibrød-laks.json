@@ -1,0 +1,31 @@
+{
+    "name": "Broccolibrød m. laks og avokado",
+    "calories": 400,
+    "image": "frokost/broccoli.jpeg",
+    "portions": 1,
+    "ingredients": [
+        {
+            "amount": 2,
+            "unit": "stk.",
+            "name": "broccolibrød",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "skiver",
+            "name": "røget laks",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "stk.",
+            "name": "avocado",
+            "shoppingList": true
+        }
+    ],
+    "procedure": [
+        "Anret en tallerken med broccolibrød (se under tilbehør), røget laks og avocado skåret i skiver med havsalt og peber.",
+        "Lav evt. som en sandwich"
+        
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "name": "Mexisalat m. guacamole",
+    "calories": 900,
+    "image": "aftensmad/mexisalat.jpeg",
+    "portions": 2,
+    "ingredients": [
+        {
+            "amount": 0.5,
+            "unit": "pakke",
+            "name": "rucola",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.25,
+            "unit": "stk.",
+            "name": "agurk",
+            "shoppingList": true
+        },
+        {
+            "amount": 125,
+            "unit": "g.",
+            "name": "cherrytomater",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "stk.",
+            "name": "rødløg",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "peberfrugt",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "stk.",
+            "name": "avocado",
+            "shoppingList": true
+        },
+        {
+            "amount": 75,
+            "unit": "g.",
+            "name": "majskerner",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "stk.",
+            "name": "kyllingefileter",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "spsk.",
+            "name": "spidskommen",
+            "shoppingList": true
+        },
+        {
+            "amount": 1.5,
+            "unit": "tsk.",
+            "name": "paprika",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "fed",
+            "name": "hvidløg",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "spsk.",
+            "name": "olivenolie",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "stk.",
+            "name": "citron, saft herfra",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "tsk.",
+            "name": "salt",
+            "shoppingList": false
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "avocado",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.25,
+            "unit": "stk.",
+            "name": "agurk",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "stk.",
+            "name": "rødløg",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "knivspids",
+            "name": "havsalt",
+            "shoppingList": false
+        },
+        {
+            "amount": 0.5,
+            "unit": "stk.",
+            "name": "lime, saft herfra",
+            "shoppingList": true
+        }
+    ],
+    "procedure": [
+        "\\bold{Salat}",
+        "Rengør og snit alle grøntsager.",
+        "Læg rucola som bund i fadet og pynt med alle grøntsagerne.",
+        "\\bold{Mexikylling}",
+        "Skær kyllingebrystfileterne i skiver, og kom dem i en skål.",
+        "Bland spidskommen, paprika, presset hvidløg, citronsaft, olivenolie og havsalt i kødet.",
+        "Steg kyllingekødet på en pande",
+        "Placer mexi-kyllingekødet i midten af fadet.",
+        "\\bold{Guacamole}",
+        "Mos 1 stk. avocado i en skål.",
+        "Snit 0.5 stk. agurk og 0.5 stk. rødløg fint og vend med avocadoen.",
+        "Smag til med havsalt og limesaft." 
+
+    ]
+}

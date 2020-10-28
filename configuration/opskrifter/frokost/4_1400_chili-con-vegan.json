@@ -1,0 +1,149 @@
+{
+    "name": "Chili Con Vegan",
+    "calories": 1400,
+    "image": "aftensmad/chili-con-vegan.jpeg",
+    "portions": 4,
+    "ingredients": [
+        {
+            "amount": 1,
+            "unit": "spsk.",
+            "name": "kokosolie",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "stk.",
+            "name": "løg",
+            "shoppingList": true
+        },
+        {
+            "amount": 3,
+            "unit": "stilke",
+            "name": "bladselleri",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "stk.",
+            "name": "hvidløg",
+            "shoppingList": true
+        },
+        {
+            "amount": 3,
+            "unit": "stk.",
+            "name": "gulerødder",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "spsk.",
+            "name": "oregano",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "spsk.",
+            "name": "spidskommen",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "spsk.",
+            "name": "gurkemeje",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "tsk.",
+            "name": "koriander",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "tsk.",
+            "name": "salt (havsalt)",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "knivspids",
+            "name": "friskkværnet peber",
+            "shoppingList": false
+        },
+        {
+            "amount": 0.5,
+            "unit": "tsk.",
+            "name": "paprika",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "tsk.",
+            "name": "chili",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "dåser",
+            "name": "hakkede tomater",
+            "shoppingList": false
+        },
+        {
+            "amount": 1,
+            "unit": "dåse",
+            "name": "kidneybønner",
+            "shoppingList": false
+        },
+        {
+            "amount": 1,
+            "unit": "dåse",
+            "name": "sorte bønner",
+            "shoppingList": false
+        },
+        {
+            "amount": 1,
+            "unit": "dåse",
+            "name": "tomatpuré (lille)",
+            "shoppingList": false
+        },
+        {
+            "amount": 10,
+            "unit": "stk.",
+            "name": "champignons",
+            "shoppingList": false
+        },
+        {
+            "amount": 30,
+            "unit": "g.",
+            "name": "majs (1⁄2 lille dåse majs)",
+            "shoppingList": false
+        },
+        {
+            "amount": 0.5,
+            "unit": "stk.",
+            "name": "avocado",
+            "shoppingList": false
+        },
+        {
+            "amount": 0.5,
+            "unit": "stk.",
+            "name": "avocado",
+            "shoppingList": false
+        },
+        {
+            "amount": 100,
+            "unit": "g.",
+            "name": "spidskåls",
+            "shoppingList": false
+        }
+    ],
+    "procedure": [
+        "Kom olien i en gryde med løg, selleri, hvidløg og gulerødder. Lad det simre i ca. 10 min.",
+        "Tilsæt alle krydderierne og steg videre i et par minutter. Tilsæt tomater, bønner, champignons og tomatpuré.",
+        "Kog, dæk og skrue ned for varmen – lad retten simre 1⁄2 til 1 time.",
+        "Tilsæt majs til slut, og lad det simre i 5 minutter.",
+        "Server med snittede spidskål og avocado på toppen.",
+        "\\bold{350 kcal per portion (40 g. kulhydrat / 7 g. fedt / 15 g. protein)}"
+
+    ]
+}

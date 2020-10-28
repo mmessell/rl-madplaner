@@ -1,0 +1,102 @@
+{
+    "name": "Kartoffelcurry",
+    "calories": 1000,
+    "image": "aftensmad/kartoffelcurry.jpeg",
+    "portions": 2,
+    "ingredients": [
+        {
+            "amount": 1,
+            "unit": "spsk.",
+            "name": "kokosolie",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "løg, hakket",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "tsk.",
+            "name": "salt",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "tsk.",
+            "name": "gurkemeje",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "spsk.",
+            "name": "stødt spidskommen",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "tsk.",
+            "name": "stødt koriander",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "tsk.",
+            "name": "stødt kanel",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "tsk.",
+            "name": "chili",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "dåse",
+            "name": "tomatpure (den lille)",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "stor sød kartoffel, skrællet og skåret i tern",
+            "shoppingList": false
+        },
+        {
+            "amount": 1,
+            "unit": "dåse",
+            "name": "kokosmælk",
+            "shoppingList": false
+        },
+        {
+            "amount": 1,
+            "unit": "dåse",
+            "name": "kikærter, drænet",
+            "shoppingList": false
+        },
+        {
+            "amount": 1,
+            "unit": "dl.",
+            "name": "brune, røde eller vilde ris",
+            "shoppingList": false
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "lime(til servering)",
+            "shoppingList": false
+        }
+    ],
+    "procedure": [
+        "Hak løgene og steg dem.",
+        "Tilsæt salt, gurkemeje, spidskommen, koriander, kanel, peber og chili, samt den søde kartoffel.",
+        "Steg videre i ca. 5 min. Tilsæt herefter tomatpuré, kokosmælk og kikærter.",
+        "Supplér evt. med lidt vand, så de søde kartofler er dækket af væde.",
+         "Varm op til kogepunktet. Skrue ned til lav varme og lad det simre i 30-45 min. indtil de søde kartofler er møre.",
+         "Kog ris efter anvisning.",
+         "Lige før servering smag til med lime, soya og evt. lidt flere krydderier, hvis du ønsker den mere krydret.",
+         "Server kartoffel curry med ris og lime "
+    ]
+}

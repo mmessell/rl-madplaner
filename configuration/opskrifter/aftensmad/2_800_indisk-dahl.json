@@ -1,0 +1,132 @@
+{
+    "name": "Dahl m. røde linser",
+    "calories": 900,
+    "image": "aftensmad/dahl.jpeg",
+    "portions": 2,
+    "ingredients": [
+        {
+            "amount": 2,
+            "unit": "stk.",
+            "name": "fed hvidløg",
+            "shoppingList": true
+        },
+        {
+            "amount": 20,
+            "unit": "g.",
+            "name": "ingefær",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "spsk.",
+            "name": "olivenolie",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "spsk.",
+            "name": "karry",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "spsk.",
+            "name": "stødt spidskommen",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.25,
+            "unit": "spsk.",
+            "name": "stødt koriander",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.25,
+            "unit": "tsk.",
+            "name": "stødt kardemomme",
+            "shoppingList": true
+        }, 
+        {
+            "amount":0.25,
+            "unit": "tsk.",
+            "name": "chiliflager",
+            "shoppingList": true
+        },
+        {
+            "amount":3,
+            "unit": "dl.",
+            "name": "grøntsagsbouillon",
+            "shoppingList": true
+        },
+        {
+            "amount":200,
+            "unit": "g.",
+            "name": "røde linser",
+            "shoppingList": true
+        },
+        {
+            "amount":1,
+            "unit": "dåse",
+            "name": "hakkede tomater",
+            "shoppingList": true
+        },
+        {
+            "amount":1,
+            "unit": "dl.",
+            "name": "græsk yoghurt",
+            "shoppingList": true
+        },
+        {
+            "amount":0.25,
+            "unit": "stk.",
+            "name": "agurk",
+            "shoppingList": true
+        },
+        {
+            "amount":0.5,
+            "unit": "stk.",
+            "name": "fed hvidløg",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.25,
+            "unit": "spsk.",
+            "name": "stødt spidskommen",
+            "shoppingList": true
+        },
+        {
+            "amount":0.25,
+            "unit": "bundt.",
+            "name": "friske koriander",
+            "shoppingList": true
+        },
+        {
+            "amount":1,
+            "unit": "knivspids",
+            "name": "havsalt",
+            "shoppingList": true
+        },
+        {
+            "amount":1,
+            "unit": "knivspids",
+            "name": "sort peber, friskkværnet",
+            "shoppingList": true
+        },
+        {
+            "amount":50,
+            "unit": "g.",
+            "name": "mandler",
+            "shoppingList": true
+        }
+    ],
+    "Procedure": [
+        "Varm olien i en stor gryde ved middel varme og tilsæt hvidløg og ingefær, rør rundt i 1 minut, hvorefter karry, spidskommen, kardemomme, koriander, og chiliflager tilsættes.",
+        "Svits krydderierne i et minutstid under omrøring.",
+        "Skyl linserne i en sigte og kom dem i gryden sammen med grøntsagsboullion og hakkede tomater.",
+        "Lad det simre under låg i 45 minutter. Rør jævnligt og tilsæt evt. lidt vand, hvis den bliver for fast.",
+        "\\bold{Dressing}", 
+        "Lav en dressing af 1 dl. græsk yoghurt, en 1/4 revet agurk, 1/2 fed, 1/2 hakket hvidløg, 1 lille tsk spidskommen, salt og peber.",
+        "Smag til med salt og server en skål toppet med dressing, friske koriander og evt. lidt hakkede mandler.",
+        "Gem en portion dahl og dressing til i morgen"
+    ]
+}

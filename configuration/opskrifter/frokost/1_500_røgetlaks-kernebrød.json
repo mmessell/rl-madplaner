@@ -1,0 +1,54 @@
+{
+    "name": "Kernebrød m. laks og avocado",
+    "calories": 450,
+    "image": "frokost/kernebrød-laks.jpeg",
+    "portions": 1,
+    "ingredients": [
+        {
+            "amount": 2,
+            "unit": "stk.",
+            "name": "kernebrød",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "skiver",
+            "name": "røget laks",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "avocado",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.25,
+            "unit": "bundt",
+            "name": "persille",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "knivspids",
+            "name": "havsalt",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "knivspids",
+            "name": "friskkværnet peber",
+            "shoppingList": false
+        },
+        {
+            "amount": 0.25,
+            "unit": "stk.",
+            "name": "citron, saft herfra",
+            "shoppingList": true
+        }
+    ],
+    "procedure": [
+        "Anret en tallerken med 2 stk. kernebrød, laks og avocado skåret i skiver.",
+        "Top med hakket persille, havsalt, peber og citronsaft."
+    ]
+}

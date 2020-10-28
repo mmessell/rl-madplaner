@@ -1,0 +1,64 @@
+{
+    "name": "Hvid fisk m. broccoli",
+    "calories": 1000,
+    "image": "aftensmad/hvidfisk-broccoli-avokado.jpeg",
+    "portions": 2,
+    "ingredients": [
+        {
+            "amount": 2,
+            "unit": "stk.",
+            "name": "hvid fisk (fx. torsk, rødspætte, kuller)",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "broccoli",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "avokado",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "fed",
+            "name": "hvidløg",
+            "shoppingList": true
+        },
+        {
+            "amount": 300,
+            "unit": "g.",
+            "name": "kartofler",
+            "shoppingList": true
+        },
+        {
+            "amount": 150,
+            "unit": "g.",
+            "name": "cherrytomater",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "knivspids",
+            "name": "havsalt",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "knivspids",
+            "name": "friskkværnet peber",
+            "shoppingList": true
+        }
+    ],
+    "procedure": [
+        "Læg kartoflerne i et ildfast fad med lidt olivenolie og salt.",
+        "Bag dem i ovnen på 200 gr. I ca. 30-45 min. (kommer an på størrelsen).",
+        "Læg evt. tomaterne ind sammen med kartoflerne de sidste 5 min. af bagetiden.",
+        "Skær broccolien ud og kog til den er mør. Hæld vandet fra, og mos broccolien sammen med avokado med en gaffel.",
+        "Tilsæt hvidløg, salt og peber.",
+        "Steg fisken i lidt smør på panden. En torsk skal have ca. 6 min. på hver side "
+    ]
+}

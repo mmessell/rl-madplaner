@@ -1,0 +1,29 @@
+{
+    "name": "Havregryn",
+    "calories": 450,
+    "image": "IMG_0117.jpg",
+    "portions": 4,
+    "ingredients": [
+        {
+            "amount": 3,
+            "unit": "dl",
+            "name": "Havregryn",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "Håndfuld",
+            "name": "Granatæble",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "Banan",
+            "shoppingList": true
+        }
+    ],
+    "procedure": [
+        "Lav grøden som du plejer og top med granatæble og banan"
+    ]
+}

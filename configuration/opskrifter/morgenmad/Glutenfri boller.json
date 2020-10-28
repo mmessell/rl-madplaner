@@ -1,0 +1,60 @@
+{
+    "title": "Glutenfri boller m. nøddecreme",
+    "calories": 100,
+    "image": "IMG_0155.jpg",
+    "ingredients": [
+        {
+            "amount": 0.2,
+            "unit": "spsk.",
+            "name": "chiafrø",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.1,
+            "unit": "spsk.",
+            "name": "olivenolie",
+            "shoppingList": true
+        },
+        {
+            "amount": 3,
+            "unit": "dl.",
+            "name": "lunkent vand",
+            "shoppingList": false
+        },
+        {
+            "amount": 200,
+            "unit": "g.",
+            "name": "glutenfri mel, fx. fuldkornsrismel el. havremel",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "spsk.",
+            "name": "hørfrø",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "spsk.",
+            "name": "fiber-HUSK (bageversion)",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "tsk.",
+            "name": "bagepulver",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "tsk.",
+            "name": "havsalt",
+            "shoppingList": true
+        }
+    ],
+    "procedure": [
+        "Lav din “chia-blanding” i en lille skål og lad frøene suge al væsken til sig. Bland alle de tørre ingredienser og tilsæt chia-blandingen. Bland nu de våde ingredienser og mix det hele sammen. Lad dejen hæve i 30 minutter. Tænd ovnen på 200 graders alm. ovn.",
+        "Form 10 boller med en våd ske og våde fingre, så dejen ikke klistrer fast. Drys med lidt ekstra mel. Lad dem efterhæve i 30 minutter.",
+        "Bag de glutenfri boller ved 200 graders alm. ovn i 45 minutter, indtil de er gyldenbrune."
+    ]
+}

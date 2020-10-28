@@ -1,0 +1,48 @@
+{
+    "name": "Varmrøget makrel m. kernebrød",
+    "calories": 450,
+    "image": "varmrøget makrel m. tomat og purløg.jpeg",
+    "portions": 1,
+    "ingredients": [
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "varmrøget makrelfilet",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "bundt",
+            "name": "purløg",
+            "shoppingList": true
+        },
+        {
+            "amount": 50,
+            "unit": "g.",
+            "name": "cherrytomater",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "stk.",
+            "name": "agurk",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "stk.",
+            "name": "gulerødder",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "skiver",
+            "name": "hjemmelavet kernebrød",
+            "shoppingList": false
+        }
+    ],
+    "Procedure": [
+        "Skræl gulerødder, vask cherrytomater og agurk (ca. 1/2 agurk) og skær i mundrette stykker",
+        "Anret grøntsagerne på tallerken med hjermmelavet kernebrød (se opskrift under tilbehør) og makrel drysset med purløg"
+    ]
+}

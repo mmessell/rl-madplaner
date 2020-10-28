@@ -1,0 +1,50 @@
+{
+    "name": "Røræg m. gurkemeje og forårsløg",
+    "calories": 200,
+    "image": "morgenmad/rawgrød.jpeg",
+    "portions": 1,
+    "ingredients": [
+        {
+            "amount": 2,
+            "unit": "stk.",
+            "name": "æg",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "spsk.",
+            "name": "gurkemeje",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "tsk.",
+            "name": "cayennepeber",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "forårsløg",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "knivspids",
+            "name": "havsalt",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "spsk.",
+            "name": "kokosolie",
+            "shoppingList": true
+        }
+    ],
+    "procedure": [
+        "Pisk æggene sammen med gurkemeje, cayennepeber og havsalt",
+        "Hak forårsløg og rør det sammen med æg",
+        "Smelt kokosolie på en mellemvarm pande og hæld æggemassen på.",
+        "Rør rundt i æggene til de har en fast konsistens"
+    ]
+}

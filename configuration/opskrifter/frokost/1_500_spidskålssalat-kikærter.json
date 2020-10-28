@@ -1,0 +1,68 @@
+{
+    "name": "Spidskålssalat m. kikærter og persille",
+    "calories": 500,
+    "image": "frokost/kålssalat-kikærter.jpeg",
+    "portions": 1,
+    "ingredients": [
+        {
+            "amount": 100,
+            "unit": "g.",
+            "name": "spidskål",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stilke",
+            "name": "bladselleri",
+            "shoppingList": true
+        },
+        {
+            "amount": 65,
+            "unit": "g.",
+            "name": "kogte kikærter",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "håndfuld",
+            "name": "bredbladet persille",
+            "shoppingList": true
+        },
+        {
+            "amount": 15,
+            "unit": "g.",
+            "name": "mandler",
+            "shoppingList": true
+        },
+        {
+            "amount": 15,
+            "unit": "g.",
+            "name": "rosiner",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "spsk.",
+            "name": "olivenolie",
+            "shoppingList": false
+        },
+        {
+            "amount": 1,
+            "unit": "spsk.",
+            "name": "æblecidereddike",
+            "shoppingList": false
+        },
+        {
+            "amount": 1,
+            "unit": "knivspids",
+            "name": "havsalt",
+            "shoppingList": false
+        } 
+    ],
+    "Procedure": [
+        "Forbered en basissalat af spidskål og bladselleri.",
+        "Kål snittes fint, bladselleri også relativt fint",
+        "Rengør og snit basilikum inklusive stilke.",
+        "Kom basissalat, solsikkekerner og basilikum i en stor skål, som vendes med en dressing af olivenolie, æblecidereddike og havsalt."
+        ]
+}

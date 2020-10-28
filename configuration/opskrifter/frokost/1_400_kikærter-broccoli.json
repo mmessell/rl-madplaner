@@ -1,0 +1,88 @@
+{
+    "name": "Broccolisalat",
+    "calories": 800,
+    "image": "frokost/broccoli-kikaerter-salat.jpeg",
+    "portions": 2,
+    "ingredients": [
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "broccoli",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "stk.",
+            "name": "fennikel",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "dåse",
+            "name": "drænede kikærter",
+            "shoppingList": true
+        },
+        {
+            "amount": 2,
+            "unit": "fed",
+            "name": "hvidløg",
+            "shoppingList": true
+        },
+        {
+            "amount": 20,
+            "unit": "g.",
+            "name": "valnødder",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "spsk.",
+            "name": "kokosolie",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "spsk.",
+            "name": "spidskommen",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "tsk.",
+            "name": "paprika",
+            "shoppingList": false
+        },
+        {
+            "amount": 1,
+            "unit": "knivspids",
+            "name": "havsalt",
+            "shoppingList": false
+        },
+        {
+            "amount": 1,
+            "unit": "knivspids",
+            "name": "friskkværnet peber",
+            "shoppingList": false
+        },
+        {
+            "amount": 0.5,
+            "unit": "stk.",
+            "name": "citron, saften herfra",
+            "shoppingList": false
+        },
+        {
+            "amount": 4,
+            "unit": "spsk.",
+            "name": "olivenolie",
+            "shoppingList": true
+        }
+    ],
+    "procedure": [
+        "Skyl kikærter fra dåse skyllet godt.",
+        "Skær broccolihovedet i små buketter og fennikel i mundrette stykker",
+        "Hak hvidløg og valnødder fint",
+        "Kom kokosolien på en varm pande og lad den smelte.",
+        "Kom nu krydderierne på i et par minutter",
+        "Tilsæt resten af ingredienserne og lad det svitse/varme igennem i ca. 7-10 min."
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "Hirsegrød",
+    "calories": 300,
+    "image": "morgenmad/hirsegrød.jpeg",
+    "portions": 1,
+    "ingredients": [
+        {
+            "amount": 0.5,
+            "unit": "dl.",
+            "name": "hirse (hel)",
+            "shoppingList": true
+        },
+        {
+            "amount": 1.5,
+            "unit": "dl.",
+            "name": "vand",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "spsk.",
+            "name": "kokosolie",
+            "shoppingList": true
+        },
+        {
+            "amount": 1,
+            "unit": "håndfuld",
+            "name": "granatæblekerner",
+            "shoppingList": true
+        },
+        {
+            "amount": 15,
+            "unit": "g.",
+            "name": "mandler",
+            "shoppingList": true
+        },
+        {
+            "amount": 0.5,
+            "unit": "stk.",
+            "name": "æble",
+            "shoppingList": false
+        },
+        {
+            "amount": 1,
+            "unit": "drys",
+            "name": "stødt kanel",
+            "shoppingList": false
+        }
+    ],
+    "procedure": [
+        "Skyl 1/2 dl hirse og kom det i en gryde med vand.",
+        "Lad det koge i ca. 20 min til en lækker, lind grød (tilsæt mere vand, hvis den bliver tør)",
+        "Kom grøden i en skål og tilsæt kokosolie og revet æble.",
+        "Ordn granatæblet: Stil en stor skål i køkkenvasken, gerne med vand og pil granatæblet i vand.",
+        "Drys med hakkede mandler, granatæblekerner og kanel.",  
+        "(Gem resten af kernes til morgenmad i løbet af ugen.)",
+        "OBS: Er portionen for lille, så kog mere hirse"
+    ]
+}
