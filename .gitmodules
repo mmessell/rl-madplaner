@@ -1,0 +1,3 @@
+[submodule "lib/rl-latexstyle"]
+	path = lib/rl-latexstyle
+	url = https://github.com/mmessell/rl-latexstyle.git
