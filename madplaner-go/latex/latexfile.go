@@ -29,7 +29,7 @@ func getLatex(mp models.Madplan, week Double, recipeImgDir string) string {
 	latex := "\\documentclass[oneside]{book}\n"
 	latex += "\\author{Anne Skaarup}\n"
 	latex += "\\title{Ren Energi}\n"
-	latex += "\\usepackage{../../packages/renlykke}\n"
+	latex += "\\usepackage{../../../lib/rl-latexstyle/renlykke}\n"
 	latex += "\\usepackage{color, colortbl}\n"
 	latex += "\\usepackage{graphicx}\n"
 	latex += "\\usepackage{float}\n"
