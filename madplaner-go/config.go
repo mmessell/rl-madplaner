@@ -1,8 +1,9 @@
 package main
 
 import (
-	"os"
+	"runtime"
 
+	"path/filepath"
 	"./log"
 )
 
@@ -19,11 +20,13 @@ var Config configuration
 func init() {
 	log.Start("config", "init")
 
-	usrDir, _ := os.UserHomeDir()
-	baseDir := usrDir + "/Dropbox/Ren lykke/Madplaner"
-	configDif := baseDir + "/configuration"
+	_, currentFile, _, _ := runtime.Caller(0)
+	relPath := filepath.Dir(currentFile)
 
-	latexDir := configDif + "/latex/texfiles"
+	outputDIR := "/../output"
+	latexDir := relPath + outputDIR + "/latexfiles"
+
+	configDif := relPath + "/../configuration"
 	madplanDir := configDif + "/madplaner"
 	madplanImageDir := madplanDir + "/billeder"
 	opskrifterDir := configDif + "/opskrifter"
